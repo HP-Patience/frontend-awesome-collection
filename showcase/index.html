@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="前端优秀作品的收藏与复刻画廊。记录设计灵感、交互实验，以及每一次动手实现。">
+  <meta name="theme-color" content="#f7f6f0">
+  <title>Frontend Collection · 前端复刻作品集</title>
+  <link rel="icon" href="./public/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./src/styles.css">
+  <script type="module" src="./src/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">跳转到作品</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Frontend Collection 首页"><span class="brand-mark" aria-hidden="true">f<span>c.</span></span><span class="brand-name">FRONTEND<br>COLLECTION</span></a>
+      <nav aria-label="主导航"><a class="nav-current" href="#collection">作品索引 <span aria-hidden="true">↘</span></a><button class="text-button" data-open-guide>收录指南 <span aria-hidden="true">↗</span></button></nav>
+    </header>
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy"><p class="eyebrow"><span class="status-dot"></span> A PERSONAL FRONTEND ARCHIVE</p>
+          <h1 id="hero-title">好设计，<br>值得<span class="title-emphasis">亲手实现<svg viewBox="0 0 360 15" preserveAspectRatio="none" aria-hidden="true"><path d="M3 10 Q150 1 355 8"/></svg></span><span class="title-period">。</span></h1>
+          <p class="hero-description">把心动的页面，变成自己的作品。<br>这里记录前端复刻、交互实验，以及从观察到实现的每一步。</p>
+          <a class="explore-link" href="#collection">浏览作品 <span aria-hidden="true">↓</span></a>
+        </div>
+        <aside class="archive-note" aria-label="收集理念"><span class="note-index">FIELD NOTES / 001</span><span class="note-star" aria-hidden="true">✳</span><p>不止于收藏，<br>也不止于像。</p><span class="note-caption">Observe. Rebuild. Understand.</span><div class="note-rule"></div><span class="note-bottom">一份持续生长的前端练习档案 <span aria-hidden="true">↗</span></span></aside>
+      </section>
+      <section class="collection" id="collection" aria-labelledby="collection-title">
+        <div class="section-heading"><div class="section-title"><span class="section-index">01 /</span><h2 id="collection-title">作品索引</h2><span class="count" id="project-count" aria-label="项目数量">—</span></div><p>从一个页面开始，慢慢积累。</p></div>
+        <div id="collection-status" role="status" aria-live="polite" class="loading-state">正在翻开作品集…</div>
+        <div id="project-grid" class="project-grid" hidden></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <div class="empty-art" aria-hidden="true"><div class="art-sheet art-back"></div><div class="art-sheet art-front"><span class="art-dots">•••</span><span class="art-line"></span><span class="art-window">＋</span><span class="art-caption"></span></div><span class="art-spark">✳</span></div>
+          <p class="empty-kicker">A BLANK CANVAS, FOR NOW.</p><h3>第一个作品，从这里开始。</h3><p class="empty-description">作品集还是空白。挑一个喜欢的页面，<br>开始复刻，再把它放进这里。</p>
+          <button class="primary-button" data-open-guide>了解如何收录 <span aria-hidden="true">↗</span></button>
+          <span class="empty-footnote">一张截图 · 一句描述 · 一次实践</span>
+        </div>
+        <div id="error-state" class="error-state" hidden><h3>作品清单暂时没有打开</h3><p id="error-message"></p><button class="primary-button" id="retry-button">重新加载 <span aria-hidden="true">↻</span></button></div>
+        <noscript><p class="error-state">请启用 JavaScript 以读取作品清单。你也可以直接查看仓库中的 projects 目录。</p></noscript>
+      </section>
+      <div class="closing-note"><span aria-hidden="true">↳</span><p>每一次复刻，都是一次更仔细的观察。</p><span class="closing-label">MADE TO LEARN, NOT JUST TO LOOK.</span></div>
+    </main>
+    <footer><span>Frontend Awesome Collection</span><span>收集灵感，留下作品。 <span class="footer-dot" aria-hidden="true">●</span></span></footer>
+  </div>
+  <dialog id="guide-dialog" aria-labelledby="guide-title">
+    <div class="dialog-top"><span class="eyebrow">ADD TO THE COLLECTION</span><button class="close-button" id="close-guide" aria-label="关闭收录指南" autofocus>×</button></div>
+    <h2 id="guide-title">把作品放进画廊。</h2><p class="guide-intro">不用修改页面布局，只需一张封面和一条记录。</p>
+    <ol class="guide-steps"><li><strong>准备封面截图</strong><p>放进 <code>showcase/public/covers/</code>，建议使用 16:10 比例的 WebP、PNG 或 JPG 图片。</p></li><li><strong>添加作品信息</strong><p>编辑 <code>showcase/src/data/projects.json</code>，在数组中加入下面的记录，替换示例名称、描述和图片路径。</p></li><li><strong>补上入口，刷新预览</strong><p>填写可用的演示、项目说明、源码或原作网址；没有的链接留空即可。本地保存后刷新页面，部署版本需重新构建。</p></li></ol>
+    <div class="code-heading"><span>作品记录模板</span><button id="copy-template" class="text-button">复制 JSON <span aria-hidden="true">⧉</span></button></div><pre><code id="project-template"></code></pre><p id="copy-status" class="copy-status" role="status" aria-live="polite"></p>
+    <p class="guide-footnote">清单里的顺序就是展示顺序。此指南不会自动创建文件或保存项目。</p>
+  </dialog>
+</body>
+</html>

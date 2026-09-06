@@ -1,0 +1,16 @@
+# Dependency and build output
+node_modules/
+/showcase/dist/
+
+# Local browser-test artifacts
+/.playwright-mcp/
+/showcase-desktop.png
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+
+# OS metadata
+.DS_Store
+Thumbs.db
