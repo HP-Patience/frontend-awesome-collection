@@ -40,3 +40,20 @@ test("main destination is demo then readme then source, never original", () => {
   assert.equal(primaryLink({ sourceUrl: "source" }), "source");
   assert.equal(primaryLink({ originalUrl: "original" }), "");
 });
+
+test("screenshot-only collections need no demo, source, readme or original URL", () => {
+  const item = {
+    id: "design-inspiration",
+    title: "收藏的设计",
+    description: "只记录截图与设计看点，没有源码或演示。",
+    cover: "public/covers/design-inspiration.png"
+  };
+  assert.equal(validateProjects([item]).length, 1);
+  assert.equal(primaryLink(item), "");
+  assert.equal(validateProjects([{ ...item, demoUrl: "", readmeUrl: "", sourceUrl: "", originalUrl: "" }]).length, 1);
+});
+test("the default template only asks for screenshot collection metadata", () => {
+  assert.deepEqual(Object.keys(projectTemplate), ["id", "title", "description", "cover"]);
+  assert.equal(validateProjects([projectTemplate]).length, 1);
+  assert.equal(primaryLink(projectTemplate), "");
+});

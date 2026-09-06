@@ -91,14 +91,14 @@ async function loadProjects() {
   $("#empty-state").hidden = true;
   $("#error-state").hidden = true;
   status.hidden = false;
-  status.textContent = "正在翻开作品集…";
+  status.textContent = "正在翻开收藏夹…";
   $("#project-count").textContent = "—";
   try {
     const response = await fetch(new URL("./data/projects.json", import.meta.url), { cache: "no-store", signal: AbortSignal.timeout(10000) });
-    if (!response.ok) throw new Error(`读取作品清单失败（HTTP ${response.status}）。`);
+    if (!response.ok) throw new Error(`读取收藏清单失败（HTTP ${response.status}）。`);
     const projects = validateProjects(await response.json());
     $("#project-count").textContent = String(projects.length).padStart(2, "0");
-    status.textContent = `已收录 ${projects.length} 个作品。`;
+    status.textContent = `已收录 ${projects.length} 个项目。`;
     status.className = "sr-only";
     if (projects.length) {
       grid.append(...projects.map(card));

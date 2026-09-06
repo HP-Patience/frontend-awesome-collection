@@ -1,12 +1,8 @@
 export const projectTemplate = {
-  id: "my-first-project",
-  title: "我的第一个作品",
-  description: "用一句话描述这个作品的设计特点或学习重点。",
-  cover: "public/covers/my-first-project.webp",
-  demoUrl: "",
-  readmeUrl: "",
-  sourceUrl: "",
-  originalUrl: ""
+  id: "my-first-collection",
+  title: "收藏项目名称",
+  description: "记录这个前端项目值得学习的设计细节。",
+  cover: "public/covers/my-first-collection.webp"
 };
 
 const linkFields = ["demoUrl", "readmeUrl", "sourceUrl", "originalUrl"];
