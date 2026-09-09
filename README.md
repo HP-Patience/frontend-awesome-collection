@@ -29,9 +29,9 @@
 
 独立的 [showcase 截图收藏墙](showcase/README.md)，以“页面截图 + 项目名称 + 一行描述”直观展示收集的优秀前端项目。**推荐一并收录源码，方便研究实现与后续复刻；但画廊展示不依赖源码，有无源码都能展示截图和描述。** 原作、源码仓库及演示链接可按实际情况补充，无需提供 live 演示或部署到公网。已收录 [Rive 猫爪按钮](projects/rive-cat-paw/README.md) 与 [Alche Studio](projects/alche-studio/README.md)，可在收藏墙查看截图与描述。
 
-![前端项目截图收藏墙桌面预览，包含 Rive 猫爪按钮收藏卡片](showcase/screenshots/gallery-desktop.png)
+![前端项目截图收藏墙桌面预览，包含 Rive 猫爪按钮与 Alche Studio](showcase/screenshots/gallery-desktop.png)
 
-*画廊实际页面截图，展示已收录的 Rive 猫爪按钮。截图为静态预览，查看收藏墙请按下方方式启动。*
+*画廊实际页面截图，展示已收录的 Rive 猫爪按钮与 Alche Studio。截图为静态预览，查看收藏墙请按下方方式启动。*
 
 使用 Node.js 22+，无需安装第三方依赖。在仓库根目录运行：
 
