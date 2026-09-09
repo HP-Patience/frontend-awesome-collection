@@ -1,0 +1,16 @@
+/* Local enhancements. Original visual styles live in /_astro/*.css. */
+/* Preserve the original interactive material and quaternion panels. */
+a:focus-visible, button:focus-visible {
+  outline: 1px solid #d5ff00;
+  outline-offset: 6px;
+}
+.replica-skip {
+  position: fixed; top: 12px; left: 12px; z-index: 100000;
+  padding: 12px 18px; background: #fff; color: #000;
+  font: 13px 'IBM Plex Mono', monospace;
+  transform: translateY(-180%);
+}
+.replica-skip:focus { transform: translateY(0); }
+@media (prefers-reduced-motion: reduce) {
+  .SlotButton__text_wrapper { transition: none !important; }
+}

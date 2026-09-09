@@ -1,0 +1,14 @@
+{
+  "name": "alche-studio-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local, self-contained visual reproduction of alche.studio",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/server.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

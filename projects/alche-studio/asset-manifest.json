@@ -1,0 +1,3222 @@
+{
+  "origin": "https://alche.studio",
+  "retrieved": "2026-09-09",
+  "assets": [
+    {
+      "path": "404/ascii_texture.png",
+      "source": "https://alche.studio/404/ascii_texture.png",
+      "bytes": 4362
+    },
+    {
+      "path": "_astro/Swup.Cr7ogLqN.js",
+      "source": "https://alche.studio/_astro/Swup.Cr7ogLqN.js",
+      "bytes": 21613
+    },
+    {
+      "path": "_astro/SwupA11yPlugin.ZX-iZMgT.js",
+      "source": "https://alche.studio/_astro/SwupA11yPlugin.ZX-iZMgT.js",
+      "bytes": 5243
+    },
+    {
+      "path": "_astro/SwupBodyClassPlugin.B6xGcJnL.js",
+      "source": "https://alche.studio/_astro/SwupBodyClassPlugin.B6xGcJnL.js",
+      "bytes": 1238
+    },
+    {
+      "path": "_astro/SwupHeadPlugin.d6nb3Z__.js",
+      "source": "https://alche.studio/_astro/SwupHeadPlugin.d6nb3Z__.js",
+      "bytes": 2566
+    },
+    {
+      "path": "_astro/SwupPreloadPlugin.DQ2lZ6J5.js",
+      "source": "https://alche.studio/_astro/SwupPreloadPlugin.DQ2lZ6J5.js",
+      "bytes": 6049
+    },
+    {
+      "path": "_astro/SwupScriptsPlugin.CRD5-C2F.js",
+      "source": "https://alche.studio/_astro/SwupScriptsPlugin.CRD5-C2F.js",
+      "bytes": 1095
+    },
+    {
+      "path": "_astro/_id_.XrOXUmsm.css",
+      "source": "https://alche.studio/_astro/_id_.XrOXUmsm.css",
+      "bytes": 12982
+    },
+    {
+      "path": "_astro/about.Bk-C3ZjO.css",
+      "source": "https://alche.studio/_astro/about.Bk-C3ZjO.css",
+      "bytes": 276975
+    },
+    {
+      "path": "_astro/about.CKFe_wyj.css",
+      "source": "https://alche.studio/_astro/about.CKFe_wyj.css",
+      "bytes": 6610
+    },
+    {
+      "path": "_astro/about.DKIoZJhT.css",
+      "source": "https://alche.studio/_astro/about.DKIoZJhT.css",
+      "bytes": 334962
+    },
+    {
+      "path": "_astro/barlow-latin-400-normal.CtwdMZP0.woff2",
+      "source": "https://alche.studio/_astro/barlow-latin-400-normal.CtwdMZP0.woff2",
+      "bytes": 21144
+    },
+    {
+      "path": "_astro/barlow-latin-400-normal.Gqj0RTbC.woff",
+      "source": "https://alche.studio/_astro/barlow-latin-400-normal.Gqj0RTbC.woff",
+      "bytes": 18464
+    },
+    {
+      "path": "_astro/barlow-latin-ext-400-normal.DGsTVCL_.woff",
+      "source": "https://alche.studio/_astro/barlow-latin-ext-400-normal.DGsTVCL_.woff",
+      "bytes": 11100
+    },
+    {
+      "path": "_astro/barlow-latin-ext-400-normal.DsA6LmuC.woff2",
+      "source": "https://alche.studio/_astro/barlow-latin-ext-400-normal.DsA6LmuC.woff2",
+      "bytes": 13316
+    },
+    {
+      "path": "_astro/barlow-vietnamese-400-normal.B8B3d_DU.woff2",
+      "source": "https://alche.studio/_astro/barlow-vietnamese-400-normal.B8B3d_DU.woff2",
+      "bytes": 6752
+    },
+    {
+      "path": "_astro/barlow-vietnamese-400-normal.Dcxa7Lg7.woff",
+      "source": "https://alche.studio/_astro/barlow-vietnamese-400-normal.Dcxa7Lg7.woff",
+      "bytes": 5184
+    },
+    {
+      "path": "_astro/google-sans-code-latin-400-normal.5lTHPz_z.woff2",
+      "source": "https://alche.studio/_astro/google-sans-code-latin-400-normal.5lTHPz_z.woff2",
+      "bytes": 11944
+    },
+    {
+      "path": "_astro/google-sans-code-latin-400-normal.tJVLN2Gj.woff",
+      "source": "https://alche.studio/_astro/google-sans-code-latin-400-normal.tJVLN2Gj.woff",
+      "bytes": 16132
+    },
+    {
+      "path": "_astro/google-sans-code-latin-ext-400-normal.Bv0FT8HE.woff2",
+      "source": "https://alche.studio/_astro/google-sans-code-latin-ext-400-normal.Bv0FT8HE.woff2",
+      "bytes": 9836
+    },
+    {
+      "path": "_astro/google-sans-code-latin-ext-400-normal.DMWGXYYo.woff",
+      "source": "https://alche.studio/_astro/google-sans-code-latin-ext-400-normal.DMWGXYYo.woff",
+      "bytes": 13056
+    },
+    {
+      "path": "_astro/google-sans-code-math-400-normal.C6hQfgQL.woff2",
+      "source": "https://alche.studio/_astro/google-sans-code-math-400-normal.C6hQfgQL.woff2",
+      "bytes": 7692
+    },
+    {
+      "path": "_astro/google-sans-code-math-400-normal.CLt5nEpa.woff",
+      "source": "https://alche.studio/_astro/google-sans-code-math-400-normal.CLt5nEpa.woff",
+      "bytes": 10216
+    },
+    {
+      "path": "_astro/google-sans-code-symbols-400-normal.D-0vGlLt.woff2",
+      "source": "https://alche.studio/_astro/google-sans-code-symbols-400-normal.D-0vGlLt.woff2",
+      "bytes": 5560
+    },
+    {
+      "path": "_astro/google-sans-code-symbols-400-normal.JijxEDyK.woff",
+      "source": "https://alche.studio/_astro/google-sans-code-symbols-400-normal.JijxEDyK.woff",
+      "bytes": 7448
+    },
+    {
+      "path": "_astro/google-sans-code-symbols2-400-normal.CRQrmZtU.woff",
+      "source": "https://alche.studio/_astro/google-sans-code-symbols2-400-normal.CRQrmZtU.woff",
+      "bytes": 4556
+    },
+    {
+      "path": "_astro/google-sans-code-vietnamese-400-normal.7m6vdRCU.woff2",
+      "source": "https://alche.studio/_astro/google-sans-code-vietnamese-400-normal.7m6vdRCU.woff2",
+      "bytes": 4744
+    },
+    {
+      "path": "_astro/google-sans-code-vietnamese-400-normal.CBF5ZPWN.woff",
+      "source": "https://alche.studio/_astro/google-sans-code-vietnamese-400-normal.CBF5ZPWN.woff",
+      "bytes": 6216
+    },
+    {
+      "path": "_astro/ibm-plex-mono-cyrillic-400-normal.CJUKFyLa.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-cyrillic-400-normal.CJUKFyLa.woff",
+      "bytes": 7176
+    },
+    {
+      "path": "_astro/ibm-plex-mono-cyrillic-400-normal.DvQQgHTq.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-cyrillic-400-normal.DvQQgHTq.woff2",
+      "bytes": 8328
+    },
+    {
+      "path": "_astro/ibm-plex-mono-cyrillic-ext-400-normal.B3hZxag_.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-cyrillic-ext-400-normal.B3hZxag_.woff2",
+      "bytes": 6916
+    },
+    {
+      "path": "_astro/ibm-plex-mono-cyrillic-ext-400-normal.ZyMXPjaT.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-cyrillic-ext-400-normal.ZyMXPjaT.woff",
+      "bytes": 5752
+    },
+    {
+      "path": "_astro/ibm-plex-mono-latin-400-normal.Dm_PoFIZ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-latin-400-normal.Dm_PoFIZ.woff2",
+      "bytes": 14812
+    },
+    {
+      "path": "_astro/ibm-plex-mono-latin-400-normal.O6-GRVqx.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-latin-400-normal.O6-GRVqx.woff",
+      "bytes": 13196
+    },
+    {
+      "path": "_astro/ibm-plex-mono-latin-ext-400-normal.DxDDqVQb.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-latin-ext-400-normal.DxDDqVQb.woff2",
+      "bytes": 13272
+    },
+    {
+      "path": "_astro/ibm-plex-mono-latin-ext-400-normal.uwM7KshN.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-latin-ext-400-normal.uwM7KshN.woff",
+      "bytes": 11724
+    },
+    {
+      "path": "_astro/ibm-plex-mono-vietnamese-400-normal.BFiUPp6R.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-vietnamese-400-normal.BFiUPp6R.woff2",
+      "bytes": 5816
+    },
+    {
+      "path": "_astro/ibm-plex-mono-vietnamese-400-normal.DLynVohM.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-mono-vietnamese-400-normal.DLynVohM.woff",
+      "bytes": 5592
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-10-400-normal.BLMYXIZq.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-10-400-normal.BLMYXIZq.woff2",
+      "bytes": 18516
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-10-400-normal.DJrewyrW.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-10-400-normal.DJrewyrW.woff",
+      "bytes": 20904
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-100-400-normal.4_aXP0Hy.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-100-400-normal.4_aXP0Hy.woff2",
+      "bytes": 9268
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-100-400-normal.DsMZ2scz.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-100-400-normal.DsMZ2scz.woff",
+      "bytes": 10460
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-101-400-normal.D-CkUE3e.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-101-400-normal.D-CkUE3e.woff",
+      "bytes": 9056
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-101-400-normal.DppZHpau.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-101-400-normal.DppZHpau.woff2",
+      "bytes": 8068
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-102-400-normal.BQfFShQ1.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-102-400-normal.BQfFShQ1.woff2",
+      "bytes": 8680
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-102-400-normal.Ca0txE7W.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-102-400-normal.Ca0txE7W.woff",
+      "bytes": 9748
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-103-400-normal.DHwmA74W.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-103-400-normal.DHwmA74W.woff",
+      "bytes": 9988
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-103-400-normal.DNs9Omj-.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-103-400-normal.DNs9Omj-.woff2",
+      "bytes": 8924
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-104-400-normal.BmhZQdzl.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-104-400-normal.BmhZQdzl.woff",
+      "bytes": 9740
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-104-400-normal.CuKiid_t.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-104-400-normal.CuKiid_t.woff2",
+      "bytes": 8564
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-105-400-normal.BBf-_m9N.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-105-400-normal.BBf-_m9N.woff",
+      "bytes": 10040
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-105-400-normal.CHWaGU9J.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-105-400-normal.CHWaGU9J.woff2",
+      "bytes": 8960
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-106-400-normal.CGlLvzZs.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-106-400-normal.CGlLvzZs.woff2",
+      "bytes": 9520
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-106-400-normal.foxE5hHG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-106-400-normal.foxE5hHG.woff",
+      "bytes": 10712
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-107-400-normal.BzQ4XG4E.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-107-400-normal.BzQ4XG4E.woff2",
+      "bytes": 8740
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-107-400-normal.DVxkl-Dl.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-107-400-normal.DVxkl-Dl.woff",
+      "bytes": 9684
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-108-400-normal.BKXuaz7L.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-108-400-normal.BKXuaz7L.woff2",
+      "bytes": 9276
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-108-400-normal.CMeK7Yoj.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-108-400-normal.CMeK7Yoj.woff",
+      "bytes": 10428
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-109-400-normal.BYkYsUMr.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-109-400-normal.BYkYsUMr.woff",
+      "bytes": 8976
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-109-400-normal.DLZ5N3wZ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-109-400-normal.DLZ5N3wZ.woff2",
+      "bytes": 7940
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-11-400-normal.C0WskPfy.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-11-400-normal.C0WskPfy.woff2",
+      "bytes": 18976
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-11-400-normal.D4F8GONb.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-11-400-normal.D4F8GONb.woff",
+      "bytes": 21552
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-110-400-normal.BiGMHdAV.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-110-400-normal.BiGMHdAV.woff2",
+      "bytes": 8216
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-110-400-normal.CWciHSky.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-110-400-normal.CWciHSky.woff",
+      "bytes": 9252
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-111-400-normal.36IKJEvJ.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-111-400-normal.36IKJEvJ.woff",
+      "bytes": 9836
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-111-400-normal.DwkaZ2wL.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-111-400-normal.DwkaZ2wL.woff2",
+      "bytes": 8680
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-112-400-normal.DD55zx92.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-112-400-normal.DD55zx92.woff",
+      "bytes": 9192
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-112-400-normal.DpWOC24h.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-112-400-normal.DpWOC24h.woff2",
+      "bytes": 8060
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-113-400-normal.C-SwPUxy.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-113-400-normal.C-SwPUxy.woff2",
+      "bytes": 7828
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-113-400-normal.ngLrg9Ph.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-113-400-normal.ngLrg9Ph.woff",
+      "bytes": 8812
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-114-400-normal.DPGqInoK.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-114-400-normal.DPGqInoK.woff",
+      "bytes": 8444
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-114-400-normal.D_K1ajab.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-114-400-normal.D_K1ajab.woff2",
+      "bytes": 7560
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-115-400-normal.BA3oFlL7.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-115-400-normal.BA3oFlL7.woff",
+      "bytes": 9136
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-115-400-normal.DGp_yQCO.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-115-400-normal.DGp_yQCO.woff2",
+      "bytes": 8036
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-116-400-normal.BidJdmrW.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-116-400-normal.BidJdmrW.woff",
+      "bytes": 9288
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-116-400-normal.DcXtXIIt.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-116-400-normal.DcXtXIIt.woff2",
+      "bytes": 8332
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-117-400-normal.Bq_d-uLr.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-117-400-normal.Bq_d-uLr.woff",
+      "bytes": 7412
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-117-400-normal.hyG31T85.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-117-400-normal.hyG31T85.woff2",
+      "bytes": 6432
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-118-400-normal.DFkHFeXA.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-118-400-normal.DFkHFeXA.woff2",
+      "bytes": 16152
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-118-400-normal.TSsLEGdp.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-118-400-normal.TSsLEGdp.woff",
+      "bytes": 16224
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-119-400-normal.BUYaH2_l.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-119-400-normal.BUYaH2_l.woff2",
+      "bytes": 16528
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-119-400-normal.aBgyJQOx.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-119-400-normal.aBgyJQOx.woff",
+      "bytes": 19824
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-12-400-normal.BmG4MYox.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-12-400-normal.BmG4MYox.woff",
+      "bytes": 19072
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-12-400-normal.quRUVnCJ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-12-400-normal.quRUVnCJ.woff2",
+      "bytes": 16744
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-13-400-normal.DBDHqw4h.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-13-400-normal.DBDHqw4h.woff2",
+      "bytes": 14452
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-13-400-normal.QmPj_vZd.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-13-400-normal.QmPj_vZd.woff",
+      "bytes": 16612
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-14-400-normal.CP-jldkl.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-14-400-normal.CP-jldkl.woff",
+      "bytes": 18800
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-14-400-normal.DPGCrf4O.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-14-400-normal.DPGCrf4O.woff2",
+      "bytes": 16612
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-15-400-normal.D_ILNbWZ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-15-400-normal.D_ILNbWZ.woff2",
+      "bytes": 18656
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-15-400-normal.DhL4usAp.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-15-400-normal.DhL4usAp.woff",
+      "bytes": 21296
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-16-400-normal.CPpcNs7A.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-16-400-normal.CPpcNs7A.woff",
+      "bytes": 18108
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-16-400-normal.DJJG1Tuz.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-16-400-normal.DJJG1Tuz.woff2",
+      "bytes": 15940
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-17-400-normal.Cz201O_t.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-17-400-normal.Cz201O_t.woff2",
+      "bytes": 17860
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-17-400-normal.Xd0EQnSI.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-17-400-normal.Xd0EQnSI.woff",
+      "bytes": 20436
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-18-400-normal.BiRcNUnW.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-18-400-normal.BiRcNUnW.woff2",
+      "bytes": 15508
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-18-400-normal.DcRwXlcA.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-18-400-normal.DcRwXlcA.woff",
+      "bytes": 17516
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-19-400-normal.BGI-mgYq.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-19-400-normal.BGI-mgYq.woff2",
+      "bytes": 17724
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-19-400-normal.CAilAALt.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-19-400-normal.CAilAALt.woff",
+      "bytes": 19856
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-20-400-normal.2E5UN6VC.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-20-400-normal.2E5UN6VC.woff",
+      "bytes": 15764
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-20-400-normal.BQfFM2B0.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-20-400-normal.BQfFM2B0.woff2",
+      "bytes": 14036
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-21-400-normal.BFnRtDEF.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-21-400-normal.BFnRtDEF.woff",
+      "bytes": 19036
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-21-400-normal.Zr4ScQUF.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-21-400-normal.Zr4ScQUF.woff2",
+      "bytes": 16584
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-22-400-normal.IznGQDkP.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-22-400-normal.IznGQDkP.woff2",
+      "bytes": 16240
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-22-400-normal.qTFopCxn.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-22-400-normal.qTFopCxn.woff",
+      "bytes": 18604
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-23-400-normal.Bdkhc9Iw.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-23-400-normal.Bdkhc9Iw.woff2",
+      "bytes": 23156
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-23-400-normal.BtixcB0-.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-23-400-normal.BtixcB0-.woff",
+      "bytes": 26304
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-24-400-normal.B3OOo0lL.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-24-400-normal.B3OOo0lL.woff",
+      "bytes": 21404
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-24-400-normal.McxyvMnV.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-24-400-normal.McxyvMnV.woff2",
+      "bytes": 18780
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-25-400-normal.BFxbWz5n.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-25-400-normal.BFxbWz5n.woff",
+      "bytes": 20428
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-25-400-normal.DFuJhyl7.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-25-400-normal.DFuJhyl7.woff2",
+      "bytes": 17760
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-26-400-normal.DNzE_dbG.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-26-400-normal.DNzE_dbG.woff2",
+      "bytes": 14312
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-26-400-normal.D_cpF5EA.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-26-400-normal.D_cpF5EA.woff",
+      "bytes": 16444
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-27-400-normal.CG_CPqz1.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-27-400-normal.CG_CPqz1.woff",
+      "bytes": 15568
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-27-400-normal.c2jdwsOE.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-27-400-normal.c2jdwsOE.woff2",
+      "bytes": 13624
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-28-400-normal.C5RxoJ3V.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-28-400-normal.C5RxoJ3V.woff",
+      "bytes": 19648
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-28-400-normal.DXIBRRx0.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-28-400-normal.DXIBRRx0.woff2",
+      "bytes": 17184
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-29-400-normal.4EOJmPpr.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-29-400-normal.4EOJmPpr.woff",
+      "bytes": 15676
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-29-400-normal.DPDbHGRJ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-29-400-normal.DPDbHGRJ.woff2",
+      "bytes": 13996
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-3-400-normal.BpFIRrIG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-3-400-normal.BpFIRrIG.woff",
+      "bytes": 18164
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-3-400-normal.CSnRHPqi.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-3-400-normal.CSnRHPqi.woff2",
+      "bytes": 15584
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-30-400-normal.CE7Y9E5I.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-30-400-normal.CE7Y9E5I.woff2",
+      "bytes": 17840
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-30-400-normal.CkxUuY_J.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-30-400-normal.CkxUuY_J.woff",
+      "bytes": 20296
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-31-400-normal.CaOERqUu.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-31-400-normal.CaOERqUu.woff2",
+      "bytes": 18976
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-31-400-normal.DQ8k7O-z.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-31-400-normal.DQ8k7O-z.woff",
+      "bytes": 22036
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-32-400-normal.DCgv6PbD.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-32-400-normal.DCgv6PbD.woff",
+      "bytes": 20812
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-32-400-normal.oBOpBx6K.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-32-400-normal.oBOpBx6K.woff2",
+      "bytes": 17812
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-33-400-normal.7syfOPuJ.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-33-400-normal.7syfOPuJ.woff",
+      "bytes": 15680
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-33-400-normal.CRgD0sTN.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-33-400-normal.CRgD0sTN.woff2",
+      "bytes": 13464
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-34-400-normal.CW90qVjA.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-34-400-normal.CW90qVjA.woff",
+      "bytes": 21744
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-34-400-normal.DteAo9_1.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-34-400-normal.DteAo9_1.woff2",
+      "bytes": 19148
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-35-400-normal._GHhCQ5l.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-35-400-normal._GHhCQ5l.woff2",
+      "bytes": 16844
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-35-400-normal.oyHCgG2o.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-35-400-normal.oyHCgG2o.woff",
+      "bytes": 19276
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-36-400-normal.BizbVEtQ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-36-400-normal.BizbVEtQ.woff2",
+      "bytes": 14756
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-36-400-normal.D7gQSpeq.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-36-400-normal.D7gQSpeq.woff",
+      "bytes": 16988
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-37-400-normal.B-iV2FCz.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-37-400-normal.B-iV2FCz.woff",
+      "bytes": 19420
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-37-400-normal.CrxhJitf.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-37-400-normal.CrxhJitf.woff2",
+      "bytes": 17012
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-38-400-normal.D1Vp2bgS.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-38-400-normal.D1Vp2bgS.woff2",
+      "bytes": 14308
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-38-400-normal.DH9qOlQO.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-38-400-normal.DH9qOlQO.woff",
+      "bytes": 16044
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-39-400-normal.D5wsbWuV.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-39-400-normal.D5wsbWuV.woff2",
+      "bytes": 19064
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-39-400-normal.Dk7rkHeG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-39-400-normal.Dk7rkHeG.woff",
+      "bytes": 21920
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-4-400-normal.mGIBpTDA.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-4-400-normal.mGIBpTDA.woff",
+      "bytes": 4100
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-40-400-normal.DRF-ZkFr.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-40-400-normal.DRF-ZkFr.woff2",
+      "bytes": 15628
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-40-400-normal.Dye9yGvg.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-40-400-normal.Dye9yGvg.woff",
+      "bytes": 18212
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-41-400-normal.BqAaxgfH.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-41-400-normal.BqAaxgfH.woff2",
+      "bytes": 17600
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-41-400-normal.CsmxKILz.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-41-400-normal.CsmxKILz.woff",
+      "bytes": 20332
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-42-400-normal.Bwv1VfH1.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-42-400-normal.Bwv1VfH1.woff",
+      "bytes": 17148
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-42-400-normal.Dl6WfOX3.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-42-400-normal.Dl6WfOX3.woff2",
+      "bytes": 14872
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-43-400-normal.BWVo0zWK.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-43-400-normal.BWVo0zWK.woff2",
+      "bytes": 14192
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-43-400-normal.d-ngL4VK.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-43-400-normal.d-ngL4VK.woff",
+      "bytes": 15968
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-44-400-normal.C6WuUhoa.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-44-400-normal.C6WuUhoa.woff2",
+      "bytes": 15224
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-44-400-normal.Dpw9oVkY.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-44-400-normal.Dpw9oVkY.woff",
+      "bytes": 17552
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-45-400-normal.B9Y_v3iL.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-45-400-normal.B9Y_v3iL.woff2",
+      "bytes": 12904
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-45-400-normal.Cw08yPg4.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-45-400-normal.Cw08yPg4.woff",
+      "bytes": 14772
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-46-400-normal.Bo2fKdUV.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-46-400-normal.Bo2fKdUV.woff2",
+      "bytes": 11836
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-46-400-normal.Dya4Xg3C.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-46-400-normal.Dya4Xg3C.woff",
+      "bytes": 13704
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-47-400-normal.BaRCXue3.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-47-400-normal.BaRCXue3.woff2",
+      "bytes": 13936
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-47-400-normal.DWeXBY63.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-47-400-normal.DWeXBY63.woff",
+      "bytes": 16208
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-48-400-normal.JS-IrZBF.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-48-400-normal.JS-IrZBF.woff",
+      "bytes": 16812
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-48-400-normal.ezIou-vd.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-48-400-normal.ezIou-vd.woff2",
+      "bytes": 14524
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-49-400-normal.BGMyUOoF.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-49-400-normal.BGMyUOoF.woff2",
+      "bytes": 13788
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-49-400-normal.CpOmgEj1.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-49-400-normal.CpOmgEj1.woff",
+      "bytes": 15752
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-5-400-normal.CUIc6NHY.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-5-400-normal.CUIc6NHY.woff2",
+      "bytes": 16296
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-5-400-normal.D2dVMMqj.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-5-400-normal.D2dVMMqj.woff",
+      "bytes": 18532
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-50-400-normal.DDJncqjC.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-50-400-normal.DDJncqjC.woff",
+      "bytes": 7880
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-50-400-normal.DU9yuSzL.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-50-400-normal.DU9yuSzL.woff2",
+      "bytes": 6852
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-52-400-normal.B6ntzhez.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-52-400-normal.B6ntzhez.woff",
+      "bytes": 13376
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-52-400-normal.DxvfHPiZ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-52-400-normal.DxvfHPiZ.woff2",
+      "bytes": 11676
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-53-400-normal.BNzLW3gK.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-53-400-normal.BNzLW3gK.woff2",
+      "bytes": 7116
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-53-400-normal.arm4ZLbG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-53-400-normal.arm4ZLbG.woff",
+      "bytes": 7820
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-55-400-normal.CXMVQbir.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-55-400-normal.CXMVQbir.woff",
+      "bytes": 22908
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-55-400-normal.CgSa9olG.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-55-400-normal.CgSa9olG.woff2",
+      "bytes": 18932
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-56-400-normal.BImwtP9C.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-56-400-normal.BImwtP9C.woff2",
+      "bytes": 8040
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-56-400-normal.BikO35BJ.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-56-400-normal.BikO35BJ.woff",
+      "bytes": 8816
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-58-400-normal.BGajDKSt.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-58-400-normal.BGajDKSt.woff",
+      "bytes": 8612
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-58-400-normal.Bxe5yV1Z.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-58-400-normal.Bxe5yV1Z.woff2",
+      "bytes": 7432
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-59-400-normal.CkeNzekL.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-59-400-normal.CkeNzekL.woff",
+      "bytes": 9924
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-59-400-normal.D7J9HacT.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-59-400-normal.D7J9HacT.woff2",
+      "bytes": 10176
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-6-400-normal.CK1rBi2w.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-6-400-normal.CK1rBi2w.woff2",
+      "bytes": 18140
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-6-400-normal.DQz22aVW.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-6-400-normal.DQz22aVW.woff",
+      "bytes": 21068
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-60-400-normal.Bc0pWfYQ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-60-400-normal.Bc0pWfYQ.woff2",
+      "bytes": 10344
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-60-400-normal.DU4X4cgu.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-60-400-normal.DU4X4cgu.woff",
+      "bytes": 11612
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-61-400-normal.82YF3olS.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-61-400-normal.82YF3olS.woff2",
+      "bytes": 10088
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-61-400-normal.DyyiExWj.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-61-400-normal.DyyiExWj.woff",
+      "bytes": 11332
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-62-400-normal.CRZQtL4e.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-62-400-normal.CRZQtL4e.woff",
+      "bytes": 10672
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-62-400-normal.DSLFRuBi.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-62-400-normal.DSLFRuBi.woff2",
+      "bytes": 9468
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-63-400-normal.BCOcqFvH.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-63-400-normal.BCOcqFvH.woff",
+      "bytes": 9800
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-63-400-normal.NWeXooWt.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-63-400-normal.NWeXooWt.woff2",
+      "bytes": 8668
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-64-400-normal.DjS9hHaA.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-64-400-normal.DjS9hHaA.woff",
+      "bytes": 11932
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-64-400-normal.DplHNRWf.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-64-400-normal.DplHNRWf.woff2",
+      "bytes": 10656
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-65-400-normal.BIWHDE_t.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-65-400-normal.BIWHDE_t.woff2",
+      "bytes": 10252
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-65-400-normal.DNiOFlC5.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-65-400-normal.DNiOFlC5.woff",
+      "bytes": 11512
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-66-400-normal.BfKrnenI.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-66-400-normal.BfKrnenI.woff",
+      "bytes": 10220
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-66-400-normal.CNxVmlv6.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-66-400-normal.CNxVmlv6.woff2",
+      "bytes": 9052
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-67-400-normal.D3j6dBx3.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-67-400-normal.D3j6dBx3.woff",
+      "bytes": 10168
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-67-400-normal.lzlrdx0G.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-67-400-normal.lzlrdx0G.woff2",
+      "bytes": 8972
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-68-400-normal.BpRgjvkz.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-68-400-normal.BpRgjvkz.woff",
+      "bytes": 11328
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-68-400-normal.CfTKk1Ti.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-68-400-normal.CfTKk1Ti.woff2",
+      "bytes": 10028
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-69-400-normal.ClpMq853.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-69-400-normal.ClpMq853.woff2",
+      "bytes": 9448
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-69-400-normal.DIRwnaAC.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-69-400-normal.DIRwnaAC.woff",
+      "bytes": 10652
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-7-400-normal.BlNTLUxk.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-7-400-normal.BlNTLUxk.woff",
+      "bytes": 21836
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-7-400-normal.Ce6XQT-X.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-7-400-normal.Ce6XQT-X.woff2",
+      "bytes": 19112
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-70-400-normal.BQZWkZap.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-70-400-normal.BQZWkZap.woff2",
+      "bytes": 9444
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-70-400-normal.BvYVJLC-.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-70-400-normal.BvYVJLC-.woff",
+      "bytes": 10664
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-71-400-normal.BF8CoFgI.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-71-400-normal.BF8CoFgI.woff",
+      "bytes": 10412
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-71-400-normal.HbsCI6VV.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-71-400-normal.HbsCI6VV.woff2",
+      "bytes": 9280
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-72-400-normal.BKinYB31.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-72-400-normal.BKinYB31.woff",
+      "bytes": 11448
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-72-400-normal.D3NTG_Qr.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-72-400-normal.D3NTG_Qr.woff2",
+      "bytes": 10176
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-73-400-normal.B9cHSeQ5.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-73-400-normal.B9cHSeQ5.woff2",
+      "bytes": 9716
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-73-400-normal.HVPdCDZ0.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-73-400-normal.HVPdCDZ0.woff",
+      "bytes": 10848
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-74-400-normal.BM6YwLsn.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-74-400-normal.BM6YwLsn.woff2",
+      "bytes": 8992
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-74-400-normal.BTWjvuog.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-74-400-normal.BTWjvuog.woff",
+      "bytes": 10052
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-75-400-normal.DX0jfUHx.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-75-400-normal.DX0jfUHx.woff",
+      "bytes": 10380
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-75-400-normal.DrNdqo4y.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-75-400-normal.DrNdqo4y.woff2",
+      "bytes": 9248
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-76-400-normal.BtXAriso.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-76-400-normal.BtXAriso.woff2",
+      "bytes": 8872
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-76-400-normal.DvZrEIB3.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-76-400-normal.DvZrEIB3.woff",
+      "bytes": 9980
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-77-400-normal.C8x5jxqc.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-77-400-normal.C8x5jxqc.woff2",
+      "bytes": 9600
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-77-400-normal.DIwXWqjG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-77-400-normal.DIwXWqjG.woff",
+      "bytes": 10792
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-78-400-normal.DUw4O9kJ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-78-400-normal.DUw4O9kJ.woff2",
+      "bytes": 9892
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-78-400-normal.DdAHar7U.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-78-400-normal.DdAHar7U.woff",
+      "bytes": 11084
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-79-400-normal.CHV4cTl6.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-79-400-normal.CHV4cTl6.woff2",
+      "bytes": 9472
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-79-400-normal.DKXEv0-8.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-79-400-normal.DKXEv0-8.woff",
+      "bytes": 10720
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-8-400-normal.SmEnIkYa.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-8-400-normal.SmEnIkYa.woff",
+      "bytes": 21664
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-8-400-normal.tFiGs3IA.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-8-400-normal.tFiGs3IA.woff2",
+      "bytes": 19108
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-80-400-normal.B1EBYabM.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-80-400-normal.B1EBYabM.woff",
+      "bytes": 10204
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-80-400-normal.boMeGYwE.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-80-400-normal.boMeGYwE.woff2",
+      "bytes": 9080
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-81-400-normal.BRtTCfUk.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-81-400-normal.BRtTCfUk.woff",
+      "bytes": 10012
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-81-400-normal.D32P0Vtu.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-81-400-normal.D32P0Vtu.woff2",
+      "bytes": 8852
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-82-400-normal.BQWp4BEz.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-82-400-normal.BQWp4BEz.woff",
+      "bytes": 10512
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-82-400-normal.DDpDjsGx.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-82-400-normal.DDpDjsGx.woff2",
+      "bytes": 9336
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-83-400-normal.Bw_rXMEi.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-83-400-normal.Bw_rXMEi.woff2",
+      "bytes": 9336
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-83-400-normal.yc2U6i4H.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-83-400-normal.yc2U6i4H.woff",
+      "bytes": 10620
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-84-400-normal.C14BeeRx.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-84-400-normal.C14BeeRx.woff2",
+      "bytes": 8992
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-84-400-normal.C_JCm1wG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-84-400-normal.C_JCm1wG.woff",
+      "bytes": 10144
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-85-400-normal.CxNRCaXC.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-85-400-normal.CxNRCaXC.woff",
+      "bytes": 9732
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-85-400-normal.DIfXns4-.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-85-400-normal.DIfXns4-.woff2",
+      "bytes": 8632
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-86-400-normal.Bb5ShdOk.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-86-400-normal.Bb5ShdOk.woff",
+      "bytes": 9896
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-86-400-normal.Dwyie3Iv.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-86-400-normal.Dwyie3Iv.woff2",
+      "bytes": 8816
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-87-400-normal.BPxN6iB7.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-87-400-normal.BPxN6iB7.woff",
+      "bytes": 10588
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-87-400-normal.CRB7lu7D.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-87-400-normal.CRB7lu7D.woff2",
+      "bytes": 9456
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-88-400-normal.47Y8c3gi.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-88-400-normal.47Y8c3gi.woff",
+      "bytes": 9836
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-88-400-normal.Ce6Hc4-O.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-88-400-normal.Ce6Hc4-O.woff2",
+      "bytes": 8712
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-89-400-normal.BQ1quosg.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-89-400-normal.BQ1quosg.woff",
+      "bytes": 10180
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-89-400-normal.DWWwgYkQ.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-89-400-normal.DWWwgYkQ.woff2",
+      "bytes": 9064
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-9-400-normal.-2P0gMaE.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-9-400-normal.-2P0gMaE.woff2",
+      "bytes": 17504
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-9-400-normal.DOuCM5BV.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-9-400-normal.DOuCM5BV.woff",
+      "bytes": 19832
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-90-400-normal.CfqeE6EG.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-90-400-normal.CfqeE6EG.woff",
+      "bytes": 10512
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-90-400-normal.D_k1n-D_.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-90-400-normal.D_k1n-D_.woff2",
+      "bytes": 9408
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-91-400-normal.BPY16kG1.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-91-400-normal.BPY16kG1.woff",
+      "bytes": 10356
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-91-400-normal.iuEg8qO2.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-91-400-normal.iuEg8qO2.woff2",
+      "bytes": 9184
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-92-400-normal.BfkGgwSg.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-92-400-normal.BfkGgwSg.woff2",
+      "bytes": 8836
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-92-400-normal.DoNv6QKI.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-92-400-normal.DoNv6QKI.woff",
+      "bytes": 9960
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-93-400-normal.B6WlHkvJ.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-93-400-normal.B6WlHkvJ.woff",
+      "bytes": 9972
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-93-400-normal.CXc_m19k.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-93-400-normal.CXc_m19k.woff2",
+      "bytes": 8860
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-94-400-normal.B4bajS3c.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-94-400-normal.B4bajS3c.woff2",
+      "bytes": 9456
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-94-400-normal.FBGzvyjM.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-94-400-normal.FBGzvyjM.woff",
+      "bytes": 10556
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-95-400-normal.BaY9CSq2.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-95-400-normal.BaY9CSq2.woff",
+      "bytes": 9788
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-95-400-normal.DPH1GVj3.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-95-400-normal.DPH1GVj3.woff2",
+      "bytes": 8716
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-96-400-normal.CXuQ_R0S.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-96-400-normal.CXuQ_R0S.woff",
+      "bytes": 9968
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-96-400-normal.OCME7gOK.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-96-400-normal.OCME7gOK.woff2",
+      "bytes": 8836
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-97-400-normal.4k_rP24C.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-97-400-normal.4k_rP24C.woff2",
+      "bytes": 8640
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-97-400-normal.CP6Nx25U.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-97-400-normal.CP6Nx25U.woff",
+      "bytes": 9740
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-98-400-normal.B515X6p6.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-98-400-normal.B515X6p6.woff2",
+      "bytes": 8880
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-98-400-normal.Cf7sm02w.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-98-400-normal.Cf7sm02w.woff",
+      "bytes": 10092
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-99-400-normal.BcrT9Fgn.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-99-400-normal.BcrT9Fgn.woff",
+      "bytes": 10728
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-99-400-normal.DmQyl23y.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-99-400-normal.DmQyl23y.woff2",
+      "bytes": 9576
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-cyrillic-400-normal.B9g1Ctqd.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-cyrillic-400-normal.B9g1Ctqd.woff2",
+      "bytes": 4940
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-cyrillic-400-normal.DJG00D-p.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-cyrillic-400-normal.DJG00D-p.woff",
+      "bytes": 5820
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-latin-400-normal.CDdMl-oX.woff2",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-latin-400-normal.CDdMl-oX.woff2",
+      "bytes": 24424
+    },
+    {
+      "path": "_astro/ibm-plex-sans-jp-latin-400-normal.D5LEXcjN.woff",
+      "source": "https://alche.studio/_astro/ibm-plex-sans-jp-latin-400-normal.D5LEXcjN.woff",
+      "bytes": 25068
+    },
+    {
+      "path": "_astro/index.CQ0ApTUm.css",
+      "source": "https://alche.studio/_astro/index.CQ0ApTUm.css",
+      "bytes": 19537
+    },
+    {
+      "path": "_astro/index.DnJ5xLaK.css",
+      "source": "https://alche.studio/_astro/index.DnJ5xLaK.css",
+      "bytes": 5144
+    },
+    {
+      "path": "_astro/index.astro_astro_type_script_index_0_lang.CauODnqH.js",
+      "source": "https://alche.studio/_astro/index.astro_astro_type_script_index_0_lang.CauODnqH.js",
+      "bytes": 38
+    },
+    {
+      "path": "_astro/index.astro_astro_type_script_index_0_lang.Cn_goiN_.js",
+      "source": "https://alche.studio/_astro/index.astro_astro_type_script_index_0_lang.Cn_goiN_.js",
+      "bytes": 1830921
+    },
+    {
+      "path": "_astro/index.modern.BC8Oj8jT.js",
+      "source": "https://alche.studio/_astro/index.modern.BC8Oj8jT.js",
+      "bytes": 1764
+    },
+    {
+      "path": "_astro/news.CIol-JvY.css",
+      "source": "https://alche.studio/_astro/news.CIol-JvY.css",
+      "bytes": 7814
+    },
+    {
+      "path": "_astro/noto-sans-jp-0-wght-normal.BEjcQAjL.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-0-wght-normal.BEjcQAjL.woff2",
+      "bytes": 82636
+    },
+    {
+      "path": "_astro/noto-sans-jp-1-wght-normal.BgWyMoXi.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-1-wght-normal.BgWyMoXi.woff2",
+      "bytes": 69488
+    },
+    {
+      "path": "_astro/noto-sans-jp-10-wght-normal.CIJ04WgL.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-10-wght-normal.CIJ04WgL.woff2",
+      "bytes": 74624
+    },
+    {
+      "path": "_astro/noto-sans-jp-100-wght-normal.BjUvgQ85.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-100-wght-normal.BjUvgQ85.woff2",
+      "bytes": 18408
+    },
+    {
+      "path": "_astro/noto-sans-jp-101-wght-normal.DiE4UWAj.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-101-wght-normal.DiE4UWAj.woff2",
+      "bytes": 15412
+    },
+    {
+      "path": "_astro/noto-sans-jp-102-wght-normal.oXxgur_R.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-102-wght-normal.oXxgur_R.woff2",
+      "bytes": 16984
+    },
+    {
+      "path": "_astro/noto-sans-jp-103-wght-normal.DsSxtpgv.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-103-wght-normal.DsSxtpgv.woff2",
+      "bytes": 16612
+    },
+    {
+      "path": "_astro/noto-sans-jp-104-wght-normal.ChtLn712.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-104-wght-normal.ChtLn712.woff2",
+      "bytes": 16876
+    },
+    {
+      "path": "_astro/noto-sans-jp-105-wght-normal.DFkHy8DK.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-105-wght-normal.DFkHy8DK.woff2",
+      "bytes": 17280
+    },
+    {
+      "path": "_astro/noto-sans-jp-106-wght-normal.B5ZViUZR.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-106-wght-normal.B5ZViUZR.woff2",
+      "bytes": 18856
+    },
+    {
+      "path": "_astro/noto-sans-jp-107-wght-normal.wH9Xf1ED.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-107-wght-normal.wH9Xf1ED.woff2",
+      "bytes": 16060
+    },
+    {
+      "path": "_astro/noto-sans-jp-108-wght-normal.wnqkDPWC.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-108-wght-normal.wnqkDPWC.woff2",
+      "bytes": 18184
+    },
+    {
+      "path": "_astro/noto-sans-jp-109-wght-normal.a-BcDxJr.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-109-wght-normal.a-BcDxJr.woff2",
+      "bytes": 15172
+    },
+    {
+      "path": "_astro/noto-sans-jp-11-wght-normal.DberMVXz.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-11-wght-normal.DberMVXz.woff2",
+      "bytes": 75160
+    },
+    {
+      "path": "_astro/noto-sans-jp-110-wght-normal.C5a1B_Hw.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-110-wght-normal.C5a1B_Hw.woff2",
+      "bytes": 15028
+    },
+    {
+      "path": "_astro/noto-sans-jp-111-wght-normal.DVhFzEhP.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-111-wght-normal.DVhFzEhP.woff2",
+      "bytes": 16696
+    },
+    {
+      "path": "_astro/noto-sans-jp-112-wght-normal.CAtMyl_-.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-112-wght-normal.CAtMyl_-.woff2",
+      "bytes": 15544
+    },
+    {
+      "path": "_astro/noto-sans-jp-113-wght-normal.DZql1NpK.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-113-wght-normal.DZql1NpK.woff2",
+      "bytes": 14760
+    },
+    {
+      "path": "_astro/noto-sans-jp-114-wght-normal.DehnnMl-.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-114-wght-normal.DehnnMl-.woff2",
+      "bytes": 13972
+    },
+    {
+      "path": "_astro/noto-sans-jp-115-wght-normal.Bo-QWmol.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-115-wght-normal.Bo-QWmol.woff2",
+      "bytes": 15936
+    },
+    {
+      "path": "_astro/noto-sans-jp-116-wght-normal.gzGx1Dh3.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-116-wght-normal.gzGx1Dh3.woff2",
+      "bytes": 15908
+    },
+    {
+      "path": "_astro/noto-sans-jp-117-wght-normal.CRCMPlGq.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-117-wght-normal.CRCMPlGq.woff2",
+      "bytes": 11616
+    },
+    {
+      "path": "_astro/noto-sans-jp-118-wght-normal.BGxtHNBk.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-118-wght-normal.BGxtHNBk.woff2",
+      "bytes": 18596
+    },
+    {
+      "path": "_astro/noto-sans-jp-119-wght-normal.Cmqw485h.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-119-wght-normal.Cmqw485h.woff2",
+      "bytes": 79452
+    },
+    {
+      "path": "_astro/noto-sans-jp-12-wght-normal.C9wugzji.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-12-wght-normal.C9wugzji.woff2",
+      "bytes": 66268
+    },
+    {
+      "path": "_astro/noto-sans-jp-13-wght-normal.dNhrxTL0.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-13-wght-normal.dNhrxTL0.woff2",
+      "bytes": 71512
+    },
+    {
+      "path": "_astro/noto-sans-jp-14-wght-normal.DCHtFOBa.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-14-wght-normal.DCHtFOBa.woff2",
+      "bytes": 71644
+    },
+    {
+      "path": "_astro/noto-sans-jp-15-wght-normal.B64oFmRO.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-15-wght-normal.B64oFmRO.woff2",
+      "bytes": 80056
+    },
+    {
+      "path": "_astro/noto-sans-jp-16-wght-normal.CiLMm99-.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-16-wght-normal.CiLMm99-.woff2",
+      "bytes": 67740
+    },
+    {
+      "path": "_astro/noto-sans-jp-17-wght-normal.DYiDR7B2.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-17-wght-normal.DYiDR7B2.woff2",
+      "bytes": 79548
+    },
+    {
+      "path": "_astro/noto-sans-jp-18-wght-normal.B0HHB3T0.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-18-wght-normal.B0HHB3T0.woff2",
+      "bytes": 76844
+    },
+    {
+      "path": "_astro/noto-sans-jp-19-wght-normal.BFAktNX7.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-19-wght-normal.BFAktNX7.woff2",
+      "bytes": 85636
+    },
+    {
+      "path": "_astro/noto-sans-jp-2-wght-normal.BtUHuvNx.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-2-wght-normal.BtUHuvNx.woff2",
+      "bytes": 32460
+    },
+    {
+      "path": "_astro/noto-sans-jp-20-wght-normal.CMA_5HrZ.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-20-wght-normal.CMA_5HrZ.woff2",
+      "bytes": 61176
+    },
+    {
+      "path": "_astro/noto-sans-jp-21-wght-normal.ChwzX4mC.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-21-wght-normal.ChwzX4mC.woff2",
+      "bytes": 71192
+    },
+    {
+      "path": "_astro/noto-sans-jp-22-wght-normal.DNqmvxJz.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-22-wght-normal.DNqmvxJz.woff2",
+      "bytes": 73432
+    },
+    {
+      "path": "_astro/noto-sans-jp-23-wght-normal.BR2ckzvv.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-23-wght-normal.BR2ckzvv.woff2",
+      "bytes": 75484
+    },
+    {
+      "path": "_astro/noto-sans-jp-24-wght-normal.BC4vwC_k.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-24-wght-normal.BC4vwC_k.woff2",
+      "bytes": 81940
+    },
+    {
+      "path": "_astro/noto-sans-jp-25-wght-normal.D6jxrdHs.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-25-wght-normal.D6jxrdHs.woff2",
+      "bytes": 79144
+    },
+    {
+      "path": "_astro/noto-sans-jp-26-wght-normal.D-85Dpyk.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-26-wght-normal.D-85Dpyk.woff2",
+      "bytes": 66592
+    },
+    {
+      "path": "_astro/noto-sans-jp-27-wght-normal.DRJRRkOa.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-27-wght-normal.DRJRRkOa.woff2",
+      "bytes": 63604
+    },
+    {
+      "path": "_astro/noto-sans-jp-28-wght-normal.CQ_C15J4.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-28-wght-normal.CQ_C15J4.woff2",
+      "bytes": 70080
+    },
+    {
+      "path": "_astro/noto-sans-jp-29-wght-normal.BNMG-qFr.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-29-wght-normal.BNMG-qFr.woff2",
+      "bytes": 75752
+    },
+    {
+      "path": "_astro/noto-sans-jp-3-wght-normal.Cmwkm88Q.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-3-wght-normal.Cmwkm88Q.woff2",
+      "bytes": 43416
+    },
+    {
+      "path": "_astro/noto-sans-jp-30-wght-normal.DfzJ6dWi.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-30-wght-normal.DfzJ6dWi.woff2",
+      "bytes": 78844
+    },
+    {
+      "path": "_astro/noto-sans-jp-31-wght-normal.BwXgy19l.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-31-wght-normal.BwXgy19l.woff2",
+      "bytes": 85032
+    },
+    {
+      "path": "_astro/noto-sans-jp-32-wght-normal.BmuD6P4l.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-32-wght-normal.BmuD6P4l.woff2",
+      "bytes": 73220
+    },
+    {
+      "path": "_astro/noto-sans-jp-33-wght-normal.RIdVZkhq.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-33-wght-normal.RIdVZkhq.woff2",
+      "bytes": 65024
+    },
+    {
+      "path": "_astro/noto-sans-jp-34-wght-normal.CyX8abRp.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-34-wght-normal.CyX8abRp.woff2",
+      "bytes": 84656
+    },
+    {
+      "path": "_astro/noto-sans-jp-35-wght-normal.CFGnUxJy.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-35-wght-normal.CFGnUxJy.woff2",
+      "bytes": 68980
+    },
+    {
+      "path": "_astro/noto-sans-jp-36-wght-normal.C8nt0W88.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-36-wght-normal.C8nt0W88.woff2",
+      "bytes": 62056
+    },
+    {
+      "path": "_astro/noto-sans-jp-37-wght-normal.enWlVGu-.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-37-wght-normal.enWlVGu-.woff2",
+      "bytes": 73452
+    },
+    {
+      "path": "_astro/noto-sans-jp-38-wght-normal.BCgluofq.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-38-wght-normal.BCgluofq.woff2",
+      "bytes": 68268
+    },
+    {
+      "path": "_astro/noto-sans-jp-39-wght-normal.D1-K76BH.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-39-wght-normal.D1-K76BH.woff2",
+      "bytes": 74980
+    },
+    {
+      "path": "_astro/noto-sans-jp-4-wght-normal.tojTjmD1.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-4-wght-normal.tojTjmD1.woff2",
+      "bytes": 77260
+    },
+    {
+      "path": "_astro/noto-sans-jp-40-wght-normal.DeG7rxx5.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-40-wght-normal.DeG7rxx5.woff2",
+      "bytes": 62668
+    },
+    {
+      "path": "_astro/noto-sans-jp-41-wght-normal.-nWzU0vv.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-41-wght-normal.-nWzU0vv.woff2",
+      "bytes": 74672
+    },
+    {
+      "path": "_astro/noto-sans-jp-42-wght-normal.CwCL0CKW.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-42-wght-normal.CwCL0CKW.woff2",
+      "bytes": 64448
+    },
+    {
+      "path": "_astro/noto-sans-jp-43-wght-normal.CtxpEFLA.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-43-wght-normal.CtxpEFLA.woff2",
+      "bytes": 69644
+    },
+    {
+      "path": "_astro/noto-sans-jp-44-wght-normal.8ivAxCa7.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-44-wght-normal.8ivAxCa7.woff2",
+      "bytes": 71184
+    },
+    {
+      "path": "_astro/noto-sans-jp-45-wght-normal.DylBLkcU.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-45-wght-normal.DylBLkcU.woff2",
+      "bytes": 66372
+    },
+    {
+      "path": "_astro/noto-sans-jp-46-wght-normal.BnFgHBTF.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-46-wght-normal.BnFgHBTF.woff2",
+      "bytes": 57460
+    },
+    {
+      "path": "_astro/noto-sans-jp-47-wght-normal.Bkf-IcRx.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-47-wght-normal.Bkf-IcRx.woff2",
+      "bytes": 66560
+    },
+    {
+      "path": "_astro/noto-sans-jp-48-wght-normal.DjlrnckV.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-48-wght-normal.DjlrnckV.woff2",
+      "bytes": 70144
+    },
+    {
+      "path": "_astro/noto-sans-jp-49-wght-normal.CCg2YgmQ.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-49-wght-normal.CCg2YgmQ.woff2",
+      "bytes": 61180
+    },
+    {
+      "path": "_astro/noto-sans-jp-5-wght-normal.xAmXT1U0.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-5-wght-normal.xAmXT1U0.woff2",
+      "bytes": 86772
+    },
+    {
+      "path": "_astro/noto-sans-jp-50-wght-normal.twTZbArt.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-50-wght-normal.twTZbArt.woff2",
+      "bytes": 60404
+    },
+    {
+      "path": "_astro/noto-sans-jp-51-wght-normal.X37FXC1t.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-51-wght-normal.X37FXC1t.woff2",
+      "bytes": 57140
+    },
+    {
+      "path": "_astro/noto-sans-jp-52-wght-normal.DsXEB_9w.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-52-wght-normal.DsXEB_9w.woff2",
+      "bytes": 75072
+    },
+    {
+      "path": "_astro/noto-sans-jp-53-wght-normal.DMyXSF7m.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-53-wght-normal.DMyXSF7m.woff2",
+      "bytes": 38848
+    },
+    {
+      "path": "_astro/noto-sans-jp-54-wght-normal.Cd_BknGv.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-54-wght-normal.Cd_BknGv.woff2",
+      "bytes": 31456
+    },
+    {
+      "path": "_astro/noto-sans-jp-55-wght-normal.DcCCj7gg.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-55-wght-normal.DcCCj7gg.woff2",
+      "bytes": 42600
+    },
+    {
+      "path": "_astro/noto-sans-jp-56-wght-normal.Dx7EbvHu.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-56-wght-normal.Dx7EbvHu.woff2",
+      "bytes": 37628
+    },
+    {
+      "path": "_astro/noto-sans-jp-57-wght-normal.DBTHiUx3.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-57-wght-normal.DBTHiUx3.woff2",
+      "bytes": 10836
+    },
+    {
+      "path": "_astro/noto-sans-jp-58-wght-normal.BHw7XSwg.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-58-wght-normal.BHw7XSwg.woff2",
+      "bytes": 25548
+    },
+    {
+      "path": "_astro/noto-sans-jp-59-wght-normal.DRbMpgEo.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-59-wght-normal.DRbMpgEo.woff2",
+      "bytes": 20256
+    },
+    {
+      "path": "_astro/noto-sans-jp-6-wght-normal.DMTDxXEs.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-6-wght-normal.DMTDxXEs.woff2",
+      "bytes": 89192
+    },
+    {
+      "path": "_astro/noto-sans-jp-60-wght-normal.gihsGnDU.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-60-wght-normal.gihsGnDU.woff2",
+      "bytes": 20716
+    },
+    {
+      "path": "_astro/noto-sans-jp-61-wght-normal.CuQ4Mb1t.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-61-wght-normal.CuQ4Mb1t.woff2",
+      "bytes": 20248
+    },
+    {
+      "path": "_astro/noto-sans-jp-62-wght-normal.CDdkh2cG.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-62-wght-normal.CDdkh2cG.woff2",
+      "bytes": 18388
+    },
+    {
+      "path": "_astro/noto-sans-jp-63-wght-normal.C9rLEwUQ.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-63-wght-normal.C9rLEwUQ.woff2",
+      "bytes": 17428
+    },
+    {
+      "path": "_astro/noto-sans-jp-64-wght-normal.I61H6rni.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-64-wght-normal.I61H6rni.woff2",
+      "bytes": 20760
+    },
+    {
+      "path": "_astro/noto-sans-jp-65-wght-normal.D5i_SJYX.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-65-wght-normal.D5i_SJYX.woff2",
+      "bytes": 19708
+    },
+    {
+      "path": "_astro/noto-sans-jp-66-wght-normal.CjaJxZvG.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-66-wght-normal.CjaJxZvG.woff2",
+      "bytes": 17596
+    },
+    {
+      "path": "_astro/noto-sans-jp-67-wght-normal.CpdH4YLH.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-67-wght-normal.CpdH4YLH.woff2",
+      "bytes": 17536
+    },
+    {
+      "path": "_astro/noto-sans-jp-68-wght-normal.CzKKVxhW.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-68-wght-normal.CzKKVxhW.woff2",
+      "bytes": 19652
+    },
+    {
+      "path": "_astro/noto-sans-jp-69-wght-normal.O_euELmB.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-69-wght-normal.O_euELmB.woff2",
+      "bytes": 18520
+    },
+    {
+      "path": "_astro/noto-sans-jp-7-wght-normal.Bcdnr6HK.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-7-wght-normal.Bcdnr6HK.woff2",
+      "bytes": 82440
+    },
+    {
+      "path": "_astro/noto-sans-jp-70-wght-normal.BrQzer7W.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-70-wght-normal.BrQzer7W.woff2",
+      "bytes": 18692
+    },
+    {
+      "path": "_astro/noto-sans-jp-71-wght-normal.CGl8DNxk.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-71-wght-normal.CGl8DNxk.woff2",
+      "bytes": 17200
+    },
+    {
+      "path": "_astro/noto-sans-jp-72-wght-normal.BkovMWxK.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-72-wght-normal.BkovMWxK.woff2",
+      "bytes": 20236
+    },
+    {
+      "path": "_astro/noto-sans-jp-73-wght-normal.CyIBq-ND.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-73-wght-normal.CyIBq-ND.woff2",
+      "bytes": 18360
+    },
+    {
+      "path": "_astro/noto-sans-jp-74-wght-normal.OfbQ5ANw.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-74-wght-normal.OfbQ5ANw.woff2",
+      "bytes": 17324
+    },
+    {
+      "path": "_astro/noto-sans-jp-75-wght-normal.BeA1aBgh.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-75-wght-normal.BeA1aBgh.woff2",
+      "bytes": 17868
+    },
+    {
+      "path": "_astro/noto-sans-jp-76-wght-normal.CwoGZZvq.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-76-wght-normal.CwoGZZvq.woff2",
+      "bytes": 17380
+    },
+    {
+      "path": "_astro/noto-sans-jp-77-wght-normal.tVbK2LGq.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-77-wght-normal.tVbK2LGq.woff2",
+      "bytes": 18420
+    },
+    {
+      "path": "_astro/noto-sans-jp-78-wght-normal.BiAaMSf9.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-78-wght-normal.BiAaMSf9.woff2",
+      "bytes": 19392
+    },
+    {
+      "path": "_astro/noto-sans-jp-79-wght-normal.BSuPtUwj.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-79-wght-normal.BSuPtUwj.woff2",
+      "bytes": 18864
+    },
+    {
+      "path": "_astro/noto-sans-jp-8-wght-normal.f0EYpcKf.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-8-wght-normal.f0EYpcKf.woff2",
+      "bytes": 78860
+    },
+    {
+      "path": "_astro/noto-sans-jp-80-wght-normal.BHChjigU.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-80-wght-normal.BHChjigU.woff2",
+      "bytes": 17400
+    },
+    {
+      "path": "_astro/noto-sans-jp-81-wght-normal.C2qKF6kk.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-81-wght-normal.C2qKF6kk.woff2",
+      "bytes": 17376
+    },
+    {
+      "path": "_astro/noto-sans-jp-82-wght-normal.B6msGh2-.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-82-wght-normal.B6msGh2-.woff2",
+      "bytes": 18428
+    },
+    {
+      "path": "_astro/noto-sans-jp-83-wght-normal.liCnWB8D.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-83-wght-normal.liCnWB8D.woff2",
+      "bytes": 18028
+    },
+    {
+      "path": "_astro/noto-sans-jp-84-wght-normal.COjgpnjN.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-84-wght-normal.COjgpnjN.woff2",
+      "bytes": 17308
+    },
+    {
+      "path": "_astro/noto-sans-jp-85-wght-normal.BQN7eAjn.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-85-wght-normal.BQN7eAjn.woff2",
+      "bytes": 16184
+    },
+    {
+      "path": "_astro/noto-sans-jp-86-wght-normal.B2lV-_qs.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-86-wght-normal.B2lV-_qs.woff2",
+      "bytes": 16268
+    },
+    {
+      "path": "_astro/noto-sans-jp-87-wght-normal.CsmtRdIJ.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-87-wght-normal.CsmtRdIJ.woff2",
+      "bytes": 18352
+    },
+    {
+      "path": "_astro/noto-sans-jp-88-wght-normal.cvqIkbNT.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-88-wght-normal.cvqIkbNT.woff2",
+      "bytes": 16708
+    },
+    {
+      "path": "_astro/noto-sans-jp-89-wght-normal.B-EDN4al.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-89-wght-normal.B-EDN4al.woff2",
+      "bytes": 17368
+    },
+    {
+      "path": "_astro/noto-sans-jp-9-wght-normal.DXbAN45k.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-9-wght-normal.DXbAN45k.woff2",
+      "bytes": 75368
+    },
+    {
+      "path": "_astro/noto-sans-jp-90-wght-normal.Mqo54Ij9.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-90-wght-normal.Mqo54Ij9.woff2",
+      "bytes": 18388
+    },
+    {
+      "path": "_astro/noto-sans-jp-91-wght-normal.DHdKHkp1.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-91-wght-normal.DHdKHkp1.woff2",
+      "bytes": 17824
+    },
+    {
+      "path": "_astro/noto-sans-jp-92-wght-normal.D4bzpyzc.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-92-wght-normal.D4bzpyzc.woff2",
+      "bytes": 16980
+    },
+    {
+      "path": "_astro/noto-sans-jp-93-wght-normal.PDssOJSA.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-93-wght-normal.PDssOJSA.woff2",
+      "bytes": 16852
+    },
+    {
+      "path": "_astro/noto-sans-jp-94-wght-normal.CGAA-6gf.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-94-wght-normal.CGAA-6gf.woff2",
+      "bytes": 18008
+    },
+    {
+      "path": "_astro/noto-sans-jp-95-wght-normal.BmIcV4Yf.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-95-wght-normal.BmIcV4Yf.woff2",
+      "bytes": 16704
+    },
+    {
+      "path": "_astro/noto-sans-jp-96-wght-normal.uYaP8Ssz.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-96-wght-normal.uYaP8Ssz.woff2",
+      "bytes": 16532
+    },
+    {
+      "path": "_astro/noto-sans-jp-97-wght-normal.BXoDpYSY.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-97-wght-normal.BXoDpYSY.woff2",
+      "bytes": 16748
+    },
+    {
+      "path": "_astro/noto-sans-jp-98-wght-normal.BRBSnUzY.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-98-wght-normal.BRBSnUzY.woff2",
+      "bytes": 17940
+    },
+    {
+      "path": "_astro/noto-sans-jp-99-wght-normal.DOPBt_p4.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-99-wght-normal.DOPBt_p4.woff2",
+      "bytes": 18736
+    },
+    {
+      "path": "_astro/noto-sans-jp-cyrillic-wght-normal.BRl66X3J.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-cyrillic-wght-normal.BRl66X3J.woff2",
+      "bytes": 10088
+    },
+    {
+      "path": "_astro/noto-sans-jp-latin-ext-wght-normal.BSSZJvKb.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-latin-ext-wght-normal.BSSZJvKb.woff2",
+      "bytes": 8336
+    },
+    {
+      "path": "_astro/noto-sans-jp-latin-wght-normal.BZ68q7jy.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-latin-wght-normal.BZ68q7jy.woff2",
+      "bytes": 25040
+    },
+    {
+      "path": "_astro/noto-sans-jp-vietnamese-wght-normal.DtCMfjuO.woff2",
+      "source": "https://alche.studio/_astro/noto-sans-jp-vietnamese-wght-normal.DtCMfjuO.woff2",
+      "bytes": 9112
+    },
+    {
+      "path": "_astro/page.SNkKDTDH.js",
+      "source": "https://alche.studio/_astro/page.SNkKDTDH.js",
+      "bytes": 3184
+    },
+    {
+      "path": "_astro/roboto-cyrillic-ext-wght-normal.mFIB_JhL.woff2",
+      "source": "https://alche.studio/_astro/roboto-cyrillic-ext-wght-normal.mFIB_JhL.woff2",
+      "bytes": 35568
+    },
+    {
+      "path": "_astro/roboto-cyrillic-wght-normal.B1tIhOr4.woff2",
+      "source": "https://alche.studio/_astro/roboto-cyrillic-wght-normal.B1tIhOr4.woff2",
+      "bytes": 22796
+    },
+    {
+      "path": "_astro/roboto-greek-ext-wght-normal.DnPa8eh0.woff2",
+      "source": "https://alche.studio/_astro/roboto-greek-ext-wght-normal.DnPa8eh0.woff2",
+      "bytes": 4340
+    },
+    {
+      "path": "_astro/roboto-greek-wght-normal.DAIrzMIp.woff2",
+      "source": "https://alche.studio/_astro/roboto-greek-wght-normal.DAIrzMIp.woff2",
+      "bytes": 17628
+    },
+    {
+      "path": "_astro/roboto-latin-ext-wght-normal.Dqr_DJ6L.woff2",
+      "source": "https://alche.studio/_astro/roboto-latin-ext-wght-normal.Dqr_DJ6L.woff2",
+      "bytes": 26428
+    },
+    {
+      "path": "_astro/roboto-latin-wght-normal.CHnqiQTt.woff2",
+      "source": "https://alche.studio/_astro/roboto-latin-wght-normal.CHnqiQTt.woff2",
+      "bytes": 40128
+    },
+    {
+      "path": "_astro/roboto-math-wght-normal.SopRAUEK.woff2",
+      "source": "https://alche.studio/_astro/roboto-math-wght-normal.SopRAUEK.woff2",
+      "bytes": 40572
+    },
+    {
+      "path": "_astro/roboto-symbols-wght-normal.Bm5C9Z0M.woff2",
+      "source": "https://alche.studio/_astro/roboto-symbols-wght-normal.Bm5C9Z0M.woff2",
+      "bytes": 20408
+    },
+    {
+      "path": "_astro/roboto-vietnamese-wght-normal.CaxB3VTI.woff2",
+      "source": "https://alche.studio/_astro/roboto-vietnamese-wght-normal.CaxB3VTI.woff2",
+      "bytes": 13004
+    },
+    {
+      "path": "_astro/stellla.DlNku1_C.css",
+      "source": "https://alche.studio/_astro/stellla.DlNku1_C.css",
+      "bytes": 25071
+    },
+    {
+      "path": "_astro/works.D0SUTMok.css",
+      "source": "https://alche.studio/_astro/works.D0SUTMok.css",
+      "bytes": 4696
+    },
+    {
+      "path": "about/collaboration/1.png",
+      "source": "https://alche.studio/about/collaboration/1.png",
+      "bytes": 8504
+    },
+    {
+      "path": "about/collaboration/10.png",
+      "source": "https://alche.studio/about/collaboration/10.png",
+      "bytes": 12758
+    },
+    {
+      "path": "about/collaboration/11.png",
+      "source": "https://alche.studio/about/collaboration/11.png",
+      "bytes": 14687
+    },
+    {
+      "path": "about/collaboration/12.png",
+      "source": "https://alche.studio/about/collaboration/12.png",
+      "bytes": 8608
+    },
+    {
+      "path": "about/collaboration/13.png",
+      "source": "https://alche.studio/about/collaboration/13.png",
+      "bytes": 25189
+    },
+    {
+      "path": "about/collaboration/14.png",
+      "source": "https://alche.studio/about/collaboration/14.png",
+      "bytes": 22690
+    },
+    {
+      "path": "about/collaboration/15.png",
+      "source": "https://alche.studio/about/collaboration/15.png",
+      "bytes": 13784
+    },
+    {
+      "path": "about/collaboration/16.png",
+      "source": "https://alche.studio/about/collaboration/16.png",
+      "bytes": 5476
+    },
+    {
+      "path": "about/collaboration/2.png",
+      "source": "https://alche.studio/about/collaboration/2.png",
+      "bytes": 17637
+    },
+    {
+      "path": "about/collaboration/3.png",
+      "source": "https://alche.studio/about/collaboration/3.png",
+      "bytes": 21357
+    },
+    {
+      "path": "about/collaboration/4.png",
+      "source": "https://alche.studio/about/collaboration/4.png",
+      "bytes": 15661
+    },
+    {
+      "path": "about/collaboration/5.png",
+      "source": "https://alche.studio/about/collaboration/5.png",
+      "bytes": 14849
+    },
+    {
+      "path": "about/collaboration/6.png",
+      "source": "https://alche.studio/about/collaboration/6.png",
+      "bytes": 16938
+    },
+    {
+      "path": "about/collaboration/7.png",
+      "source": "https://alche.studio/about/collaboration/7.png",
+      "bytes": 16215
+    },
+    {
+      "path": "about/collaboration/8.png",
+      "source": "https://alche.studio/about/collaboration/8.png",
+      "bytes": 10471
+    },
+    {
+      "path": "about/collaboration/9.png",
+      "source": "https://alche.studio/about/collaboration/9.png",
+      "bytes": 11707
+    },
+    {
+      "path": "about/company_bg.jpg",
+      "source": "https://alche.studio/about/company_bg.jpg",
+      "bytes": 112677
+    },
+    {
+      "path": "about/index.html",
+      "source": "https://alche.studio/about",
+      "bytes": 27776
+    },
+    {
+      "path": "about/main_pic.webp",
+      "source": "https://alche.studio/about/main_pic.webp",
+      "bytes": 133486
+    },
+    {
+      "path": "about/photos/1.webp",
+      "source": "https://alche.studio/about/photos/1.webp",
+      "bytes": 172250
+    },
+    {
+      "path": "about/photos/2.webp",
+      "source": "https://alche.studio/about/photos/2.webp",
+      "bytes": 292172
+    },
+    {
+      "path": "about/photos/3.webp",
+      "source": "https://alche.studio/about/photos/3.webp",
+      "bytes": 231538
+    },
+    {
+      "path": "about/photos/4.webp",
+      "source": "https://alche.studio/about/photos/4.webp",
+      "bytes": 313696
+    },
+    {
+      "path": "about/photos/5.webp",
+      "source": "https://alche.studio/about/photos/5.webp",
+      "bytes": 157950
+    },
+    {
+      "path": "about/photos/6.webp",
+      "source": "https://alche.studio/about/photos/6.webp",
+      "bytes": 137930
+    },
+    {
+      "path": "about/photos/7.webp",
+      "source": "https://alche.studio/about/photos/7.webp",
+      "bytes": 417348
+    },
+    {
+      "path": "about/photos/8.webp",
+      "source": "https://alche.studio/about/photos/8.webp",
+      "bytes": 217100
+    },
+    {
+      "path": "about/photos/9.webp",
+      "source": "https://alche.studio/about/photos/9.webp",
+      "bytes": 105028
+    },
+    {
+      "path": "cms-media/01M0P0PYDAH4ZV2BNP86F774ZZ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0PYDAH4ZV2BNP86F774ZZ-w1200.avif",
+      "bytes": 181731
+    },
+    {
+      "path": "cms-media/01M0P0Q1JC16W3TTWT5YFTY6J1-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0Q1JC16W3TTWT5YFTY6J1-w1200.avif",
+      "bytes": 56422
+    },
+    {
+      "path": "cms-media/01M0P0Q2SM84RKGY74SNF5QYSJ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0Q2SM84RKGY74SNF5QYSJ-w1200.avif",
+      "bytes": 92067
+    },
+    {
+      "path": "cms-media/01M0P0Q40NC0JRQG62315JAEKZ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0Q40NC0JRQG62315JAEKZ-w1200.avif",
+      "bytes": 122444
+    },
+    {
+      "path": "cms-media/01M0P0Q6ASEZX13Q70FVBFY745-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0Q6ASEZX13Q70FVBFY745-w1200.avif",
+      "bytes": 95649
+    },
+    {
+      "path": "cms-media/01M0P0Q7Y0JJVK0QJC1DEKFCYW-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0Q7Y0JJVK0QJC1DEKFCYW-w1200.avif",
+      "bytes": 90695
+    },
+    {
+      "path": "cms-media/01M0P0Q7Y0JJVK0QJC1DEKFCYW-w800.avif",
+      "source": "https://alche.studio/cms-media/01M0P0Q7Y0JJVK0QJC1DEKFCYW-w800.avif",
+      "bytes": 47273
+    },
+    {
+      "path": "cms-media/01M0P0QAKG73EDDBYSNRJDGR2R-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QAKG73EDDBYSNRJDGR2R-w1200.avif",
+      "bytes": 45364
+    },
+    {
+      "path": "cms-media/01M0P0QCPQPG35XRRK8DY26RCV-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QCPQPG35XRRK8DY26RCV-w1200.avif",
+      "bytes": 42297
+    },
+    {
+      "path": "cms-media/01M0P0QEPW33D4YQEFN09K01JW-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QEPW33D4YQEFN09K01JW-w1200.avif",
+      "bytes": 118076
+    },
+    {
+      "path": "cms-media/01M0P0QEPW33D4YQEFN09K01JW-w800.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QEPW33D4YQEFN09K01JW-w800.avif",
+      "bytes": 57637
+    },
+    {
+      "path": "cms-media/01M0P0QHJR6N5AE6BM27AYZXC6-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QHJR6N5AE6BM27AYZXC6-w1200.avif",
+      "bytes": 87211
+    },
+    {
+      "path": "cms-media/01M0P0QKGV5D2049ZWF60CTH6A-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QKGV5D2049ZWF60CTH6A-w1200.avif",
+      "bytes": 95521
+    },
+    {
+      "path": "cms-media/01M0P0QNJW8SZYWJBFX1VS9CGY-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QNJW8SZYWJBFX1VS9CGY-w1200.avif",
+      "bytes": 61644
+    },
+    {
+      "path": "cms-media/01M0P0QQ5J5NR26AF6QDEHSMFK-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QQ5J5NR26AF6QDEHSMFK-w1200.avif",
+      "bytes": 80770
+    },
+    {
+      "path": "cms-media/01M0P0QSE8JTF1SMWEVWF2XB0D-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QSE8JTF1SMWEVWF2XB0D-w1200.avif",
+      "bytes": 46256
+    },
+    {
+      "path": "cms-media/01M0P0QVZZ8HQBQWPM99PZCKQZ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QVZZ8HQBQWPM99PZCKQZ-w1200.avif",
+      "bytes": 116494
+    },
+    {
+      "path": "cms-media/01M0P0QXYABAE959NCY35HZ9WT-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0QXYABAE959NCY35HZ9WT-w1200.avif",
+      "bytes": 88930
+    },
+    {
+      "path": "cms-media/01M0P0R0BXQDF1E9AX7NS14HR0-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R0BXQDF1E9AX7NS14HR0-w1200.avif",
+      "bytes": 114086
+    },
+    {
+      "path": "cms-media/01M0P0R1TZGF772TP1F5031G3P-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R1TZGF772TP1F5031G3P-w1200.avif",
+      "bytes": 17275
+    },
+    {
+      "path": "cms-media/01M0P0R4GYWWR2HQAA74452GHZ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R4GYWWR2HQAA74452GHZ-w1200.avif",
+      "bytes": 28091
+    },
+    {
+      "path": "cms-media/01M0P0R5NBHQRZX9R2MGGPSW84-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R5NBHQRZX9R2MGGPSW84-w1200.avif",
+      "bytes": 58716
+    },
+    {
+      "path": "cms-media/01M0P0R74D4JBMDDPD7P55BZQE-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R74D4JBMDDPD7P55BZQE-w1200.avif",
+      "bytes": 55554
+    },
+    {
+      "path": "cms-media/01M0P0R8DNB8KQKSF2XB0KV582-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R8DNB8KQKSF2XB0KV582-w1200.avif",
+      "bytes": 250512
+    },
+    {
+      "path": "cms-media/01M0P0R9KW11MS13PR685XVYYE-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0R9KW11MS13PR685XVYYE-w1200.avif",
+      "bytes": 80205
+    },
+    {
+      "path": "cms-media/01M0P0RBSKX29V4DWWXHT6GCYS-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RBSKX29V4DWWXHT6GCYS-w1200.avif",
+      "bytes": 60147
+    },
+    {
+      "path": "cms-media/01M0P0RDJ3SR704Y1E8BG0YHME-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RDJ3SR704Y1E8BG0YHME-w1200.avif",
+      "bytes": 33579
+    },
+    {
+      "path": "cms-media/01M0P0REXGAMS5EV49WFNHRJP1-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0REXGAMS5EV49WFNHRJP1-w1200.avif",
+      "bytes": 89678
+    },
+    {
+      "path": "cms-media/01M0P0RGYEGT4NE8Q02HFS4J32-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RGYEGT4NE8Q02HFS4J32-w1200.avif",
+      "bytes": 67736
+    },
+    {
+      "path": "cms-media/01M0P0RKN475C1GHBFJRKZ0AXP-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RKN475C1GHBFJRKZ0AXP-w1200.avif",
+      "bytes": 77582
+    },
+    {
+      "path": "cms-media/01M0P0RN92GR6P3GT0V7ZYV8HG-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RN92GR6P3GT0V7ZYV8HG-w1200.avif",
+      "bytes": 150312
+    },
+    {
+      "path": "cms-media/01M0P0RPCPMQ68AR1RF006HGED-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RPCPMQ68AR1RF006HGED-w1200.avif",
+      "bytes": 47703
+    },
+    {
+      "path": "cms-media/01M0P0RREYM3NV13M5685X8SPX-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RREYM3NV13M5685X8SPX-w1200.avif",
+      "bytes": 129625
+    },
+    {
+      "path": "cms-media/01M0P0RV4S8R8QY7YHMEEMPG25-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RV4S8R8QY7YHMEEMPG25-w1200.avif",
+      "bytes": 96938
+    },
+    {
+      "path": "cms-media/01M0P0RWQJS08Q2XRVC78DDFWE-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RWQJS08Q2XRVC78DDFWE-w1200.avif",
+      "bytes": 155571
+    },
+    {
+      "path": "cms-media/01M0P0RWQJS08Q2XRVC78DDFWE-w800.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RWQJS08Q2XRVC78DDFWE-w800.avif",
+      "bytes": 87645
+    },
+    {
+      "path": "cms-media/01M0P0RYEXA8R54HTQB627SEXV-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RYEXA8R54HTQB627SEXV-w1200.avif",
+      "bytes": 153798
+    },
+    {
+      "path": "cms-media/01M0P0RYEXA8R54HTQB627SEXV-w800.avif",
+      "source": "https://alche.studio/cms-media/01M0P0RYEXA8R54HTQB627SEXV-w800.avif",
+      "bytes": 80322
+    },
+    {
+      "path": "cms-media/01M0P0S2TJ3PFAWV3YBCYCAHVH-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0S2TJ3PFAWV3YBCYCAHVH-w1200.avif",
+      "bytes": 47115
+    },
+    {
+      "path": "cms-media/01M0P0S5E4TQ3B1VPN2AZ4N61X-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0S5E4TQ3B1VPN2AZ4N61X-w1200.avif",
+      "bytes": 93948
+    },
+    {
+      "path": "cms-media/01M0P0S7ZNTNZ47TDPFX275KQD-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0S7ZNTNZ47TDPFX275KQD-w1200.avif",
+      "bytes": 79832
+    },
+    {
+      "path": "cms-media/01M0P0S96B02P06NV471CQXWYC-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0S96B02P06NV471CQXWYC-w1200.avif",
+      "bytes": 55965
+    },
+    {
+      "path": "cms-media/01M0P0SACYYQG8JR5DJQBHGWX4-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SACYYQG8JR5DJQBHGWX4-w1200.avif",
+      "bytes": 41147
+    },
+    {
+      "path": "cms-media/01M0P0SCG7CHC5E9STFNFCGVTW-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SCG7CHC5E9STFNFCGVTW-w1200.avif",
+      "bytes": 71273
+    },
+    {
+      "path": "cms-media/01M0P0SFKMJFXE3S4YV2DB4HXD-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SFKMJFXE3S4YV2DB4HXD-w1200.avif",
+      "bytes": 233462
+    },
+    {
+      "path": "cms-media/01M0P0SHYQH1S99WQW02F18RG0-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SHYQH1S99WQW02F18RG0-w1200.avif",
+      "bytes": 77248
+    },
+    {
+      "path": "cms-media/01M0P0SNQYRY9RZ6RWXN80V94G-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SNQYRY9RZ6RWXN80V94G-w1200.avif",
+      "bytes": 168086
+    },
+    {
+      "path": "cms-media/01M0P0SQX77930N0J5057R0AK0-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SQX77930N0J5057R0AK0-w1200.avif",
+      "bytes": 91716
+    },
+    {
+      "path": "cms-media/01M0P0SSW550FFDAEKM4S67WSG-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SSW550FFDAEKM4S67WSG-w1200.avif",
+      "bytes": 119422
+    },
+    {
+      "path": "cms-media/01M0P0SVF5XHVWD2JZA940M1PC-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SVF5XHVWD2JZA940M1PC-w1200.avif",
+      "bytes": 144549
+    },
+    {
+      "path": "cms-media/01M0P0SVF5XHVWD2JZA940M1PC-w800.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SVF5XHVWD2JZA940M1PC-w800.avif",
+      "bytes": 75469
+    },
+    {
+      "path": "cms-media/01M0P0SXJ4R5Y85BGGT3T1SVZX-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SXJ4R5Y85BGGT3T1SVZX-w1200.avif",
+      "bytes": 138733
+    },
+    {
+      "path": "cms-media/01M0P0SZPTKVN9RKFNJ98QT4WD-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0SZPTKVN9RKFNJ98QT4WD-w1200.avif",
+      "bytes": 80526
+    },
+    {
+      "path": "cms-media/01M0P0T17XKTNXEW4YK0YPMVJ3-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0T17XKTNXEW4YK0YPMVJ3-w1200.avif",
+      "bytes": 59303
+    },
+    {
+      "path": "cms-media/01M0P0T2XD3YKYGBWV3A2C3K5N-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0T2XD3YKYGBWV3A2C3K5N-w1200.avif",
+      "bytes": 95063
+    },
+    {
+      "path": "cms-media/01M0P0T4BSCZDKVGY3NWNVRGAY-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0T4BSCZDKVGY3NWNVRGAY-w1200.avif",
+      "bytes": 47222
+    },
+    {
+      "path": "cms-media/01M0P0T675EYJX9ENTNXFFP74A-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0T675EYJX9ENTNXFFP74A-w1200.avif",
+      "bytes": 197462
+    },
+    {
+      "path": "cms-media/01M0P0T857RE40VK1KRE7YB9WS-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0T857RE40VK1KRE7YB9WS-w1200.avif",
+      "bytes": 62493
+    },
+    {
+      "path": "cms-media/01M0P0TAMSG2F12144WE4JP9FM-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TAMSG2F12144WE4JP9FM-w1200.avif",
+      "bytes": 47575
+    },
+    {
+      "path": "cms-media/01M0P0TBS7VB42J04BM7QGCQWF-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TBS7VB42J04BM7QGCQWF-w1200.avif",
+      "bytes": 57900
+    },
+    {
+      "path": "cms-media/01M0P0TEA533ANY365MT4QFF44-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TEA533ANY365MT4QFF44-w1200.avif",
+      "bytes": 87803
+    },
+    {
+      "path": "cms-media/01M0P0THGYPD5JKA8WZ6PY0665-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0THGYPD5JKA8WZ6PY0665-w1200.avif",
+      "bytes": 105714
+    },
+    {
+      "path": "cms-media/01M0P0TK9XR08QEA5E9DNT5AR5-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TK9XR08QEA5E9DNT5AR5-w1200.avif",
+      "bytes": 321638
+    },
+    {
+      "path": "cms-media/01M0P0TP8MNJX7Q3YMTNTKP7A5-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TP8MNJX7Q3YMTNTKP7A5-w1200.avif",
+      "bytes": 187105
+    },
+    {
+      "path": "cms-media/01M0P0TQC38HFNNDDXP9NKD4HJ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TQC38HFNNDDXP9NKD4HJ-w1200.avif",
+      "bytes": 46123
+    },
+    {
+      "path": "cms-media/01M0P0TSH28AT67VQEZBKKF51Q-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TSH28AT67VQEZBKKF51Q-w1200.avif",
+      "bytes": 103503
+    },
+    {
+      "path": "cms-media/01M0P0TV4JSDXPBKGBMCEN941F-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TV4JSDXPBKGBMCEN941F-w1200.avif",
+      "bytes": 110389
+    },
+    {
+      "path": "cms-media/01M0P0TY2ENG6ZWVHK6S57MMEE-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TY2ENG6ZWVHK6S57MMEE-w1200.avif",
+      "bytes": 156306
+    },
+    {
+      "path": "cms-media/01M0P0TZS6D0C4MKSGCTHDVRQK-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0TZS6D0C4MKSGCTHDVRQK-w1200.avif",
+      "bytes": 114366
+    },
+    {
+      "path": "cms-media/01M0P0V1Q5NWEXGB4GZ1V3D7P0-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0V1Q5NWEXGB4GZ1V3D7P0-w1200.avif",
+      "bytes": 116097
+    },
+    {
+      "path": "cms-media/01M0P0V2XQN3R9564NB1K0E8A7-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0V2XQN3R9564NB1K0E8A7-w1200.avif",
+      "bytes": 87134
+    },
+    {
+      "path": "cms-media/01M0P0V5S683FHKG4TEWAEX91P-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0V5S683FHKG4TEWAEX91P-w1200.avif",
+      "bytes": 131792
+    },
+    {
+      "path": "cms-media/01M0P0V76KK8NMK4R2WMH81SWM-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0V76KK8NMK4R2WMH81SWM-w1200.avif",
+      "bytes": 60814
+    },
+    {
+      "path": "cms-media/01M0P0V8ZEMRJQSDQ5MY75YKNE-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0V8ZEMRJQSDQ5MY75YKNE-w1200.avif",
+      "bytes": 109527
+    },
+    {
+      "path": "cms-media/01M0P0VBMNY3NMZ4T26YM10ST5-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VBMNY3NMZ4T26YM10ST5-w1200.avif",
+      "bytes": 76810
+    },
+    {
+      "path": "cms-media/01M0P0VCS3STHB2ZQ1HCMPFNXB-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VCS3STHB2ZQ1HCMPFNXB-w1200.avif",
+      "bytes": 51794
+    },
+    {
+      "path": "cms-media/01M0P0VE42STPD7TN9KM3FFFT6-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VE42STPD7TN9KM3FFFT6-w1200.avif",
+      "bytes": 90920
+    },
+    {
+      "path": "cms-media/01M0P0VFNSP0Y409T4K5BAE240-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VFNSP0Y409T4K5BAE240-w1200.avif",
+      "bytes": 175651
+    },
+    {
+      "path": "cms-media/01M0P0VHK7D1FFAVQQYRF1NACG-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VHK7D1FFAVQQYRF1NACG-w1200.avif",
+      "bytes": 78511
+    },
+    {
+      "path": "cms-media/01M0P0VK99GFM47S4T7ANYWKVH-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VK99GFM47S4T7ANYWKVH-w1200.avif",
+      "bytes": 78018
+    },
+    {
+      "path": "cms-media/01M0P0VMFMT0TR3QC9Q2J0ZZQW-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VMFMT0TR3QC9Q2J0ZZQW-w1200.avif",
+      "bytes": 89781
+    },
+    {
+      "path": "cms-media/01M0P0VNK8F7JDWY9FCPG5TGDY-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VNK8F7JDWY9FCPG5TGDY-w1200.avif",
+      "bytes": 65140
+    },
+    {
+      "path": "cms-media/01M0P0VQ5W3KKQBZWRDSFHBQD6-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VQ5W3KKQBZWRDSFHBQD6-w1200.avif",
+      "bytes": 95713
+    },
+    {
+      "path": "cms-media/01M0P0VSKPBZPM9S7Y96R6ZAZM-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VSKPBZPM9S7Y96R6ZAZM-w1200.avif",
+      "bytes": 195369
+    },
+    {
+      "path": "cms-media/01M0P0VWA95GNBK3GMEFECY7GS-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VWA95GNBK3GMEFECY7GS-w1200.avif",
+      "bytes": 56490
+    },
+    {
+      "path": "cms-media/01M0P0VXJ2E3T569G49C3MNZNF-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VXJ2E3T569G49C3MNZNF-w1200.avif",
+      "bytes": 298852
+    },
+    {
+      "path": "cms-media/01M0P0VZNGNFZYTWR5EK1Q6XE7-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0VZNGNFZYTWR5EK1Q6XE7-w1200.avif",
+      "bytes": 63225
+    },
+    {
+      "path": "cms-media/01M0P0W0SDPT6J3BTKATY0W3PE-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0W0SDPT6J3BTKATY0W3PE-w1200.avif",
+      "bytes": 99116
+    },
+    {
+      "path": "cms-media/01M0P0W354Y6KGHVVSAFT96R7M-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0W354Y6KGHVVSAFT96R7M-w1200.avif",
+      "bytes": 175475
+    },
+    {
+      "path": "cms-media/01M0P0W4D3GXVAG2ATV428XSG0-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0W4D3GXVAG2ATV428XSG0-w1200.avif",
+      "bytes": 103874
+    },
+    {
+      "path": "cms-media/01M0P0W6DWRKC22KF6651ZHGM0-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0W6DWRKC22KF6651ZHGM0-w1200.avif",
+      "bytes": 179008
+    },
+    {
+      "path": "cms-media/01M0P0W8AQKDKCWBQTRRQ930RH-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0W8AQKDKCWBQTRRQ930RH-w1200.avif",
+      "bytes": 76706
+    },
+    {
+      "path": "cms-media/01M0P0W9HF3BA1KEVR5YXS7P36-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0W9HF3BA1KEVR5YXS7P36-w1200.avif",
+      "bytes": 33346
+    },
+    {
+      "path": "cms-media/01M0P0WAWX2PY1KCC0NMG6H21H-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WAWX2PY1KCC0NMG6H21H-w1200.avif",
+      "bytes": 128466
+    },
+    {
+      "path": "cms-media/01M0P0WD8XM7VP4CEF6KA8HCTA-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WD8XM7VP4CEF6KA8HCTA-w1200.avif",
+      "bytes": 244321
+    },
+    {
+      "path": "cms-media/01M0P0WG353CMQSPCFCGF1THWR-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WG353CMQSPCFCGF1THWR-w1200.avif",
+      "bytes": 67839
+    },
+    {
+      "path": "cms-media/01M0P0WHRCZVQ51VE2MY08YG93-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WHRCZVQ51VE2MY08YG93-w1200.avif",
+      "bytes": 73775
+    },
+    {
+      "path": "cms-media/01M0P0WHRCZVQ51VE2MY08YG93-w800.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WHRCZVQ51VE2MY08YG93-w800.avif",
+      "bytes": 48748
+    },
+    {
+      "path": "cms-media/01M0P0WJZ6MPSV98FGHV823E8H-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WJZ6MPSV98FGHV823E8H-w1200.avif",
+      "bytes": 53944
+    },
+    {
+      "path": "cms-media/01M0P0WMCQ48RFFE0APRTDTB5Y-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WMCQ48RFFE0APRTDTB5Y-w1200.avif",
+      "bytes": 68788
+    },
+    {
+      "path": "cms-media/01M0P0WQ3DCGS2GC3KPQ5M456X-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WQ3DCGS2GC3KPQ5M456X-w1200.avif",
+      "bytes": 113874
+    },
+    {
+      "path": "cms-media/01M0P0WSCE9K2BT5RNX256K234-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WSCE9K2BT5RNX256K234-w1200.avif",
+      "bytes": 152402
+    },
+    {
+      "path": "cms-media/01M0P0WVNF8RJ12TMGF53RJ9T9-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WVNF8RJ12TMGF53RJ9T9-w1200.avif",
+      "bytes": 77268
+    },
+    {
+      "path": "cms-media/01M0P0WY35847ZY01S4WY54VQW-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0WY35847ZY01S4WY54VQW-w1200.avif",
+      "bytes": 64210
+    },
+    {
+      "path": "cms-media/01M0P0X0DGCMEDCSVNM2W4KRJG-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0X0DGCMEDCSVNM2W4KRJG-w1200.avif",
+      "bytes": 225320
+    },
+    {
+      "path": "cms-media/01M0P0X25ZPDW8AEE00EY4D0M8-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0X25ZPDW8AEE00EY4D0M8-w1200.avif",
+      "bytes": 102452
+    },
+    {
+      "path": "cms-media/01M0P0X5KJ7PB3K3NF3WR0D1YB-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0X5KJ7PB3K3NF3WR0D1YB-w1200.avif",
+      "bytes": 36763
+    },
+    {
+      "path": "cms-media/01M0P0X6R38BFGNRJR9T6XGJGM-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0X6R38BFGNRJR9T6XGJGM-w1200.avif",
+      "bytes": 55081
+    },
+    {
+      "path": "cms-media/01M0P0X9CTVF17ZB9SPH67WWS6-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0X9CTVF17ZB9SPH67WWS6-w1200.avif",
+      "bytes": 44453
+    },
+    {
+      "path": "cms-media/01M0P0XBEA13ETZHRP97TAE0DS-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0P0XBEA13ETZHRP97TAE0DS-w1200.avif",
+      "bytes": 89595
+    },
+    {
+      "path": "cms-media/01M0PVE9N3TBQV26WZJJZCYP46-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0PVE9N3TBQV26WZJJZCYP46-w1200.avif",
+      "bytes": 90610
+    },
+    {
+      "path": "cms-media/01M0PVE9N684PTM35M3F6WQCQJ-w1200.avif",
+      "source": "https://alche.studio/cms-media/01M0PVE9N684PTM35M3F6WQCQJ-w1200.avif",
+      "bytes": 33781
+    },
+    {
+      "path": "common/alche_logo.svg",
+      "source": "https://alche.studio/common/alche_logo.svg",
+      "bytes": 1810
+    },
+    {
+      "path": "common/loading.svg",
+      "source": "https://alche.studio/common/loading.svg",
+      "bytes": 2977
+    },
+    {
+      "path": "common/loading/bg/data.json",
+      "source": "https://alche.studio/common/loading/bg/data.json",
+      "bytes": 42484
+    },
+    {
+      "path": "common/loading/logo/data.json",
+      "source": "https://alche.studio/common/loading/logo/data.json",
+      "bytes": 3888
+    },
+    {
+      "path": "common/scene.glb",
+      "source": "https://alche.studio/common/scene.glb",
+      "bytes": 685324
+    },
+    {
+      "path": "contact/index.html",
+      "source": "https://alche.studio/contact",
+      "bytes": 22369
+    },
+    {
+      "path": "envmap/nx.png",
+      "source": "https://alche.studio/envmap/nx.png",
+      "bytes": 157067
+    },
+    {
+      "path": "envmap/ny.png",
+      "source": "https://alche.studio/envmap/ny.png",
+      "bytes": 143615
+    },
+    {
+      "path": "envmap/nz.png",
+      "source": "https://alche.studio/envmap/nz.png",
+      "bytes": 167727
+    },
+    {
+      "path": "envmap/px.png",
+      "source": "https://alche.studio/envmap/px.png",
+      "bytes": 105794
+    },
+    {
+      "path": "envmap/py.png",
+      "source": "https://alche.studio/envmap/py.png",
+      "bytes": 269685
+    },
+    {
+      "path": "envmap/pz.png",
+      "source": "https://alche.studio/envmap/pz.png",
+      "bytes": 161478
+    },
+    {
+      "path": "favicon.png",
+      "source": "https://alche.studio/favicon.png",
+      "bytes": 897
+    },
+    {
+      "path": "favicon/000.png",
+      "source": "https://alche.studio/favicon/000.png",
+      "bytes": 965
+    },
+    {
+      "path": "index.html",
+      "source": "https://alche.studio/",
+      "bytes": 41330
+    },
+    {
+      "path": "license/index.html",
+      "source": "https://alche.studio/license",
+      "bytes": 1394293
+    },
+    {
+      "path": "news/index.html",
+      "source": "https://alche.studio/news",
+      "bytes": 28123
+    },
+    {
+      "path": "news/page/2/index.html",
+      "source": "https://alche.studio/news/page/2",
+      "bytes": 28716
+    },
+    {
+      "path": "news/page/3/index.html",
+      "source": "https://alche.studio/news/page/3",
+      "bytes": 22057
+    },
+    {
+      "path": "ogp.jpg",
+      "source": "https://alche.studio/ogp.jpg",
+      "bytes": 541084
+    },
+    {
+      "path": "privacypolicy/index.html",
+      "source": "https://alche.studio/privacypolicy",
+      "bytes": 10969
+    },
+    {
+      "path": "sounds/bgm.mp3",
+      "source": "https://alche.studio/sounds/bgm.mp3",
+      "bytes": 1011840
+    },
+    {
+      "path": "sounds/mission_in.mp3",
+      "source": "https://alche.studio/sounds/mission_in.mp3",
+      "bytes": 11195
+    },
+    {
+      "path": "sounds/typing.mp3",
+      "source": "https://alche.studio/sounds/typing.mp3",
+      "bytes": 256320
+    },
+    {
+      "path": "sounds/works_in.mp3",
+      "source": "https://alche.studio/sounds/works_in.mp3",
+      "bytes": 40416
+    },
+    {
+      "path": "stellla/bg.png",
+      "source": "https://alche.studio/stellla/bg.png",
+      "bytes": 321820
+    },
+    {
+      "path": "stellla/bg_function.png",
+      "source": "https://alche.studio/stellla/bg_function.png",
+      "bytes": 66442
+    },
+    {
+      "path": "stellla/company/1.png",
+      "source": "https://alche.studio/stellla/company/1.png",
+      "bytes": 8504
+    },
+    {
+      "path": "stellla/company/2.png",
+      "source": "https://alche.studio/stellla/company/2.png",
+      "bytes": 17637
+    },
+    {
+      "path": "stellla/company/3.png",
+      "source": "https://alche.studio/stellla/company/3.png",
+      "bytes": 21357
+    },
+    {
+      "path": "stellla/company/4.png",
+      "source": "https://alche.studio/stellla/company/4.png",
+      "bytes": 15661
+    },
+    {
+      "path": "stellla/function/icons/customize/00.png",
+      "source": "https://alche.studio/stellla/function/icons/customize/00.png",
+      "bytes": 118409
+    },
+    {
+      "path": "stellla/function/icons/customize/01.png",
+      "source": "https://alche.studio/stellla/function/icons/customize/01.png",
+      "bytes": 9755
+    },
+    {
+      "path": "stellla/function/icons/customize/02.png",
+      "source": "https://alche.studio/stellla/function/icons/customize/02.png",
+      "bytes": 22732
+    },
+    {
+      "path": "stellla/function/icons/customize/03.png",
+      "source": "https://alche.studio/stellla/function/icons/customize/03.png",
+      "bytes": 23619
+    },
+    {
+      "path": "stellla/function/icons/fortnite.png",
+      "source": "https://alche.studio/stellla/function/icons/fortnite.png",
+      "bytes": 9301
+    },
+    {
+      "path": "stellla/function/icons/money/00.png",
+      "source": "https://alche.studio/stellla/function/icons/money/00.png",
+      "bytes": 32774
+    },
+    {
+      "path": "stellla/function/icons/money/01.png",
+      "source": "https://alche.studio/stellla/function/icons/money/01.png",
+      "bytes": 56349
+    },
+    {
+      "path": "stellla/function/icons/money/02.png",
+      "source": "https://alche.studio/stellla/function/icons/money/02.png",
+      "bytes": 26112
+    },
+    {
+      "path": "stellla/function/icons/money/03.png",
+      "source": "https://alche.studio/stellla/function/icons/money/03.png",
+      "bytes": 48471
+    },
+    {
+      "path": "stellla/function/icons/multiplayer/00.png",
+      "source": "https://alche.studio/stellla/function/icons/multiplayer/00.png",
+      "bytes": 34844
+    },
+    {
+      "path": "stellla/function/icons/multiplayer/01.png",
+      "source": "https://alche.studio/stellla/function/icons/multiplayer/01.png",
+      "bytes": 62170
+    },
+    {
+      "path": "stellla/function/icons/multiplayer/02.png",
+      "source": "https://alche.studio/stellla/function/icons/multiplayer/02.png",
+      "bytes": 78493
+    },
+    {
+      "path": "stellla/function/icons/ue2.png",
+      "source": "https://alche.studio/stellla/function/icons/ue2.png",
+      "bytes": 24102
+    },
+    {
+      "path": "stellla/function/icons/web/00.png",
+      "source": "https://alche.studio/stellla/function/icons/web/00.png",
+      "bytes": 116206
+    },
+    {
+      "path": "stellla/function/icons/web/01.png",
+      "source": "https://alche.studio/stellla/function/icons/web/01.png",
+      "bytes": 14028
+    },
+    {
+      "path": "stellla/function/icons/web/02.png",
+      "source": "https://alche.studio/stellla/function/icons/web/02.png",
+      "bytes": 66132
+    },
+    {
+      "path": "stellla/function/icons/web/03.png",
+      "source": "https://alche.studio/stellla/function/icons/web/03.png",
+      "bytes": 21832
+    },
+    {
+      "path": "stellla/index.html",
+      "source": "https://alche.studio/stellla",
+      "bytes": 37638
+    },
+    {
+      "path": "stellla/kv.mp4",
+      "source": "https://alche.studio/stellla/kv.mp4",
+      "bytes": 12159038
+    },
+    {
+      "path": "stellla/logo_stellla.png",
+      "source": "https://alche.studio/stellla/logo_stellla.png",
+      "bytes": 19536
+    },
+    {
+      "path": "stellla/points/01.webp",
+      "source": "https://alche.studio/stellla/points/01.webp",
+      "bytes": 163448
+    },
+    {
+      "path": "stellla/points/02.webp",
+      "source": "https://alche.studio/stellla/points/02.webp",
+      "bytes": 66594
+    },
+    {
+      "path": "stellla/points/03.webp",
+      "source": "https://alche.studio/stellla/points/03.webp",
+      "bytes": 52778
+    },
+    {
+      "path": "stellla/slide-bg.jpg",
+      "source": "https://alche.studio/stellla/slide-bg.jpg",
+      "bytes": 88901
+    },
+    {
+      "path": "stellla/stellla_star.svg",
+      "source": "https://alche.studio/stellla/stellla_star.svg",
+      "bytes": 500
+    },
+    {
+      "path": "top/fortnite.png",
+      "source": "https://alche.studio/top/fortnite.png",
+      "bytes": 9301
+    },
+    {
+      "path": "top/logo.png",
+      "source": "https://alche.studio/top/logo.png",
+      "bytes": 28380
+    },
+    {
+      "path": "top/outro/data.json",
+      "source": "https://alche.studio/top/outro/data.json",
+      "bytes": 55204
+    },
+    {
+      "path": "top/service-title.png",
+      "source": "https://alche.studio/top/service-title.png",
+      "bytes": 12067
+    },
+    {
+      "path": "top/service/stellla.mp4",
+      "source": "https://alche.studio/top/service/stellla.mp4",
+      "bytes": 5064361
+    },
+    {
+      "path": "top/service/ue.mp4",
+      "source": "https://alche.studio/top/service/ue.mp4",
+      "bytes": 4035579
+    },
+    {
+      "path": "top/service/uefn.mp4",
+      "source": "https://alche.studio/top/service/uefn.mp4",
+      "bytes": 3529029
+    },
+    {
+      "path": "top/ue2.png",
+      "source": "https://alche.studio/top/ue2.png",
+      "bytes": 24102
+    },
+    {
+      "path": "top/works-title.png",
+      "source": "https://alche.studio/top/works-title.png",
+      "bytes": 15955
+    },
+    {
+      "path": "works/In-Game-Concert/index.html",
+      "source": "https://alche.studio/works/In-Game-Concert",
+      "bytes": 22518
+    },
+    {
+      "path": "works/cloud rendering/index.html",
+      "source": "https://alche.studio/works/cloud rendering",
+      "bytes": 21228
+    },
+    {
+      "path": "works/detail/05tscxftkq/index.html",
+      "source": "https://alche.studio/works/detail/05tscxftkq",
+      "bytes": 35357
+    },
+    {
+      "path": "works/detail/3yhfqni6r1nw/index.html",
+      "source": "https://alche.studio/works/detail/3yhfqni6r1nw",
+      "bytes": 32808
+    },
+    {
+      "path": "works/detail/6quknisr3zu/index.html",
+      "source": "https://alche.studio/works/detail/6quknisr3zu",
+      "bytes": 32864
+    },
+    {
+      "path": "works/detail/6zdqixkfze/index.html",
+      "source": "https://alche.studio/works/detail/6zdqixkfze",
+      "bytes": 33062
+    },
+    {
+      "path": "works/detail/8ekyy7vviu/index.html",
+      "source": "https://alche.studio/works/detail/8ekyy7vviu",
+      "bytes": 34139
+    },
+    {
+      "path": "works/detail/997ia9e6cty7/index.html",
+      "source": "https://alche.studio/works/detail/997ia9e6cty7",
+      "bytes": 34050
+    },
+    {
+      "path": "works/detail/9blea5ec8usz/index.html",
+      "source": "https://alche.studio/works/detail/9blea5ec8usz",
+      "bytes": 32049
+    },
+    {
+      "path": "works/detail/lqlwmmtrsd6s/index.html",
+      "source": "https://alche.studio/works/detail/lqlwmmtrsd6s",
+      "bytes": 33827
+    },
+    {
+      "path": "works/detail/s_e2s8jpxpu/index.html",
+      "source": "https://alche.studio/works/detail/s_e2s8jpxpu",
+      "bytes": 34239
+    },
+    {
+      "path": "works/detail/tj4jobxus4/index.html",
+      "source": "https://alche.studio/works/detail/tj4jobxus4",
+      "bytes": 34019
+    },
+    {
+      "path": "works/detail/tpt91dvlt0xu/index.html",
+      "source": "https://alche.studio/works/detail/tpt91dvlt0xu",
+      "bytes": 32797
+    },
+    {
+      "path": "works/detail/uqdzssjeiox/index.html",
+      "source": "https://alche.studio/works/detail/uqdzssjeiox",
+      "bytes": 33680
+    },
+    {
+      "path": "works/detail/v5z_wkiqnh/index.html",
+      "source": "https://alche.studio/works/detail/v5z_wkiqnh",
+      "bytes": 33277
+    },
+    {
+      "path": "works/detail/w7kbe2gn9u/index.html",
+      "source": "https://alche.studio/works/detail/w7kbe2gn9u",
+      "bytes": 33784
+    },
+    {
+      "path": "works/detail/w877e70dr1n/index.html",
+      "source": "https://alche.studio/works/detail/w877e70dr1n",
+      "bytes": 33846
+    },
+    {
+      "path": "works/detail/w_j986wq_4/index.html",
+      "source": "https://alche.studio/works/detail/w_j986wq_4",
+      "bytes": 32926
+    },
+    {
+      "path": "works/detail/x-7xjmugndty/index.html",
+      "source": "https://alche.studio/works/detail/x-7xjmugndty",
+      "bytes": 38143
+    },
+    {
+      "path": "works/fortnite/index.html",
+      "source": "https://alche.studio/works/fortnite",
+      "bytes": 24895
+    },
+    {
+      "path": "works/index.html",
+      "source": "https://alche.studio/works",
+      "bytes": 29533
+    },
+    {
+      "path": "works/metaverse/index.html",
+      "source": "https://alche.studio/works/metaverse",
+      "bytes": 29274
+    },
+    {
+      "path": "works/mobile/index.html",
+      "source": "https://alche.studio/works/mobile",
+      "bytes": 23070
+    },
+    {
+      "path": "works/page/2/index.html",
+      "source": "https://alche.studio/works/page/2",
+      "bytes": 20586
+    },
+    {
+      "path": "works/stellla/index.html",
+      "source": "https://alche.studio/works/stellla",
+      "bytes": 21792
+    },
+    {
+      "path": "works/unreal_engine/index.html",
+      "source": "https://alche.studio/works/unreal_engine",
+      "bytes": 24934
+    },
+    {
+      "path": "works/vr/index.html",
+      "source": "https://alche.studio/works/vr",
+      "bytes": 21086
+    }
+  ],
+  "failures": []
+}

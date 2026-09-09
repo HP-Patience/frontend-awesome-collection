@@ -5,5 +5,12 @@
     "description": "悬浮按钮触发猫爪探出，复用原站 Rive 动画，复现左右与下方感应区交互。",
     "cover": "public/covers/rive-cat-paw.png",
     "originalUrl": "https://rive.app/game-ui"
+  },
+  {
+    "id": "alche-studio",
+    "title": "Alche Studio",
+    "description": "实时 WebGL 金属标志、动态网格与滚动联动，保留材质和旋转面板的官网本地化复刻。",
+    "cover": "public/covers/alche-studio.png",
+    "originalUrl": "https://alche.studio/"
   }
 ]

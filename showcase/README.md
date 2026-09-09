@@ -2,7 +2,7 @@
 
 一个在本地浏览的前端项目截图收藏墙：**页面截图 + 项目名称 + 一行描述**。推荐一并收录源码，方便研究实现与后续复刻；画廊只负责直观展示，有无源码都不影响收录，也不需要 live 演示或公网部署。
 
-原作、源码、说明或演示链接只是可选补充，全部省略也能正常展示。不包含登录、数据库、后台或自动截图服务；当前已收录 [Rive 猫爪按钮](../projects/rive-cat-paw/README.md)，截图来自本地复刻演示。
+原作、源码、说明或演示链接只是可选补充，全部省略也能正常展示。不包含登录、数据库、后台或自动截图服务；当前已收录 [Rive 猫爪按钮](../projects/rive-cat-paw/README.md) 与 [Alche Studio](../projects/alche-studio/README.md)，截图来自本地复刻演示。
 
 [返回仓库首页](../README.md)
 
@@ -98,7 +98,7 @@ showcase/
 │   ├── app.js                 # 加载作品、渲染卡片与弹窗交互
 │   ├── projects.js            # 数据校验、模板与跳转规则
 │   ├── styles.css             # 响应式布局和视觉样式
-│   └── data/projects.json     # 收藏清单，包含猫爪按钮记录
+│   └── data/projects.json     # 收藏清单，包含猫爪按钮与 Alche Studio
 ├── scripts/                   # 零第三方依赖的本地服务与构建脚本
 └── tests/                     # 数据校验和本地服务测试
 ```

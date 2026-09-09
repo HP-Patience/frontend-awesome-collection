@@ -6,11 +6,12 @@
 
 ## 收藏清单
 
-已收录 Rive 猫爪按钮，相关交互演示与素材已归档。
+已收录 Rive 猫爪按钮和 Alche Studio，相关交互演示与素材已归档。
 
 | 名称 | 原作链接 | 类型 / 标签 | 值得学习的细节 | 状态 | 本地项目 |
 | --- | --- | --- | --- | --- | --- |
 | Rive 猫爪按钮 | [Rive for game UI](https://rive.app/game-ui) | 微交互 / Rive / 按钮 | 透明感应区驱动状态机，猫爪从按钮边缘探出，并响应左右及下方区域 | 已复刻 | [rive-cat-paw](projects/rive-cat-paw/README.md) |
+| Alche Studio | [Alche, Inc](https://alche.studio/) | 品牌官网 / WebGL / Three.js / 滚动动效 | 金属标志环境反射、3D 滚动联动、材质与旋转调节面板；原站公开构建产物本地化 | 已复刻 | [alche-studio](projects/alche-studio/README.md) |
 
 ## 记录约定
 
