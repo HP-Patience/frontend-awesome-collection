@@ -1,0 +1,12 @@
+{
+  "name": "ripple-shader-study",
+  "version": "1.1.0",
+  "private": true,
+  "description": "A dependency-free WebGL ripple gallery study",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "check": "node --check app.js && node --check ripple-trail.js && node --check server.mjs && node --check build.mjs",
+    "test": "node --test tests/ripple-trail.test.cjs"
+  }
+}

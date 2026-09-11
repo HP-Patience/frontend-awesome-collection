@@ -12,5 +12,12 @@
     "description": "实时 WebGL 金属标志、动态网格与滚动联动，保留材质和旋转面板的官网本地化复刻。",
     "cover": "public/covers/alche-studio.png",
     "originalUrl": "https://alche.studio/"
+  },
+  {
+    "id": "ripple-shader",
+    "title": "Ripple Shader",
+    "description": "原生 WebGL 水波画廊，鼠标掠过让黑白照片与边缘一同流动；拖尾按路径连续采样、自然消散。",
+    "cover": "public/covers/ripple-shader.png",
+    "originalUrl": "https://blog.olivierlarose.com/demos/ripple-shader"
   }
 ]

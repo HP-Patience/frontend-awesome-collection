@@ -27,11 +27,11 @@
 
 ## 网页作品画廊
 
-独立的 [showcase 截图收藏墙](showcase/README.md)，以“页面截图 + 项目名称 + 一行描述”直观展示收集的优秀前端项目。**推荐一并收录源码，方便研究实现与后续复刻；但画廊展示不依赖源码，有无源码都能展示截图和描述。** 原作、源码仓库及演示链接可按实际情况补充，无需提供 live 演示或部署到公网。已收录 [Rive 猫爪按钮](projects/rive-cat-paw/README.md) 与 [Alche Studio](projects/alche-studio/README.md)，可在收藏墙查看截图与描述。
+独立的 [showcase 截图收藏墙](showcase/README.md)，以“页面截图 + 项目名称 + 一行描述”直观展示收集的优秀前端项目。**推荐一并收录源码，方便研究实现与后续复刻；但画廊展示不依赖源码，有无源码都能展示截图和描述。** 原作、源码仓库及演示链接可按实际情况补充，无需提供 live 演示或部署到公网。已收录 [Rive 猫爪按钮](projects/rive-cat-paw/README.md)、[Alche Studio](projects/alche-studio/README.md) 与 [Ripple Shader](projects/ripple-shader/README.md)，可在收藏墙查看截图与描述。
 
-![前端项目截图收藏墙桌面预览，包含 Rive 猫爪按钮与 Alche Studio](showcase/screenshots/gallery-desktop.png)
+![前端项目截图收藏墙桌面预览，包含 Rive 猫爪按钮、Alche Studio 与 Ripple Shader](showcase/screenshots/gallery-desktop.png)
 
-*画廊实际页面截图，展示已收录的 Rive 猫爪按钮与 Alche Studio。截图为静态预览，查看收藏墙请按下方方式启动。*
+*画廊实际页面截图（2026-09-11），展示已收录的 Rive 猫爪按钮、Alche Studio 与 Ripple Shader。截图为静态预览，查看收藏墙请按下方方式启动。*
 
 使用 Node.js 22+，无需安装第三方依赖。在仓库根目录运行：
 
@@ -46,12 +46,13 @@ npm run dev
 
 ## 项目索引
 
-已收录 Rive 猫爪按钮交互演示与 Alche Studio 官网本地化复刻。这里仅索引已开始实现的作品；尚未动手的项目也可以直接加入截图收藏墙，并在[收藏清单](collection.md) 中记录来源和看点。
+已收录 Rive 猫爪按钮交互演示、Alche Studio 官网本地化复刻与 Ripple Shader 水波交互实验。这里仅索引已开始实现的作品；尚未动手的项目也可以直接加入截图收藏墙，并在[收藏清单](collection.md) 中记录来源和看点。
 
 | 项目 | 原作 / 灵感来源 | 技术栈 | 学习重点 | 在线预览 | 状态 |
 | --- | --- | --- | --- | --- | --- |
 | [Rive 猫爪按钮](projects/rive-cat-paw/README.md) | [Rive for game UI](https://rive.app/game-ui) | HTML / CSS / JavaScript / Rive | 透明感应区、状态机、离线资源打包 | 未部署；[本地运行说明](projects/rive-cat-paw/README.md#技术栈与本地运行) | 已完成 |
 | [Alche Studio](projects/alche-studio/README.md) | [Alche, Inc](https://alche.studio/) | HTML / CSS / JavaScript / Three.js / Node.js | WebGL 金属材质、滚动联动、静态资源本地化 | 未部署；[本地运行说明](projects/alche-studio/README.md#技术栈与本地运行) | 已完成 |
+| [Ripple Shader](projects/ripple-shader/README.md) | [Olivier Larose · Ripple Shader](https://blog.olivierlarose.com/demos/ripple-shader) | HTML / CSS / JavaScript / WebGL | 离屏位移纹理、连续路径采样、动态对象池与自然衰减 | 未部署；[本地运行说明](projects/ripple-shader/README.md#打开方式) | 已完成 |
 
 作品状态使用 `进行中`、`已完成` 或 `持续优化`。状态更新只修改索引，不移动项目目录。
 
